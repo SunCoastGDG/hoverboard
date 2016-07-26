@@ -4,15 +4,15 @@ module.exports = {
     permalink: '/',
     text: 'Home',
     heroSettings: {
-      backgroundColor: '#00BCD4',
-      backgroundImage: '/images/backgrounds/home.png',
+      backgroundColor: '#ffaa00',
+      // backgroundImage: '/images/backgrounds/home.png',
       fontColor: '#FFFFFF',
-      tabBarColor: '#FFFFFF',
-      video: {
-        title: 'GDG DevFest Ukraine 2015',
-        youtubeId: 'DfMnJAzOFng',
-        text: 'See how it was in 2015'
-      }
+      tabBarColor: '#FFFFFF'
+      // video: {
+      //   title: 'DevFest Florida 2016',
+      //   youtubeId: 'DfMnJAzOFng',
+      //   text: ''
+      // }
     }
   }, {
     route: 'blog',
@@ -20,7 +20,6 @@ module.exports = {
     text: 'Blog',
     heroSettings: {
       backgroundColor: '#03A9F4',
-      backgroundImage: '/images/backgrounds/blog.png',
       fontColor: '#FFFFFF',
       tabBarColor: '#FFFFFF'
     }

@@ -1,32 +1,32 @@
 module.exports = {
-  title: 'GDG DevFest Season 2015',
-  description: 'The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts',
+  title: 'DevFest Florida 2016',
+  description: 'The innagural DevFest Florida event is going to be the biggest Google tech conference in central Florida. GDG Space Coast, GDG Central Florida and GDG Sun Coast are collaborating to put together great speakers, code labs and a fun environment to learn more about Web and Android technologies.',
   keywords: 'event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, cloud',
   charset: 'utf-8',
   lang: 'en',
   // Add to homescreen for Chrome on Android
-  applicationName: 'GDG DevFest Season 2015',
+  applicationName: 'DevFest Florida 2016',
   // Add to homescreen for Safari on iOS
-  appleMobileWebAppTitle: 'GDG DevFest Season 2015',
+  appleMobileWebAppTitle: 'DevFest Florida 2016',
 
   // Event details
-  dates: 'October 23-24, 2015',
+  dates: 'November 05, 2016',
   location: {
-    title: 'Pivdennyi Expo Center',
-    description: 'Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event',
-    short: 'Lviv, Ukraine',
-    address: 'Shchyretska St, 36',
-    link: 'https://www.facebook.com/expopivdennij',
+    title: 'Orlando, Florida',
+    description: 'We\'re looking forward to being able to share our venue details with you as soon as we can!',
+    short: 'Orlando, Florida',
+    address: '',
+    link: '',
     pointer: {
-      latitude: 49.809841,
-      longitude: 23.972805,
-      zoom: 15
+      latitude: 28.481399,
+      longitude: -81.5088361,
+      zoom: 10
     },
     mapCenter: {
-      latitude: 49.809841,
-      longitude: 23.982805
+      latitude: 28.5449627,
+      longitude: -81.2617507
     },
-    images: ['/images/backgrounds/location_1.jpg', '/images/backgrounds/location_2.jpg', '/images/backgrounds/location_3.jpg']
+    images: ['/images/backgrounds/orlando_1.jpg', '/images/backgrounds/orlando_2.jpg', '/images/backgrounds/orlando_3.jpg']
   },
 
   // Contacts
@@ -49,7 +49,7 @@ module.exports = {
       url: 'https://www.linkedin.com/company/google-developers-group-lviv'
     }
   },
-  hashtag: 'dfua',
+  hashtag: 'devfestfl',
   email: 'devfest@gdg.com',
   organizer: {
     name: 'GDG Lviv',

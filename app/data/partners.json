@@ -1,13 +1,27 @@
 [{
-    "title": "Template creator",
+    "title": "Organizers",
     "logos": [{
-        "name": "GDG Lviv",
-        "url": "https://plus.google.com/102444623953913144164",
-        "logoUrl": "../images/partners/gdg-lviv.svg",
-        "width": 170
+        "name": "GDG Sun Coast",
+        "url": "https://github.com/gdg-x",
+        "logoUrl": "../images/partners/SunCoast.svg"
+    },{
+        "name": "GDG Central Florida",
+        "url": "https://github.com/gdg-x",
+        "logoUrl": "../images/partners/CentralFlorida.svg"
+    },{
+        "name": "GDG Space Coast",
+        "url": "https://github.com/gdg-x",
+        "logoUrl": "../images/partners/SpaceCoast.svg"
     }]
 }, {
-    "title": "General partner",
+    "title": "Sponsors",
+    "logos": [{
+        "name": "Google",
+        "url": "https://www.google.com.ua/intl/en/about/",
+        "logoUrl": "../images/partners/google.svg"
+    }]
+}, {
+    "title": "General partners",
     "logos": [{
         "name": "Google",
         "url": "https://www.google.com.ua/intl/en/about/",
@@ -16,41 +30,5 @@
         "name": "GDG[x]",
         "url": "https://github.com/gdg-x",
         "logoUrl": "../images/partners/gdg-x.svg"
-    },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
-    },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
-    },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
-    },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
-    },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
     }]
 }]

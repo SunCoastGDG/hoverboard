@@ -103,8 +103,7 @@
                 {% for ticket in ticketsBlock.tickets %}
                 <div class="price-block text-center {% if ticket.soldOut %}sold-out{% endif %}">
                     <div class="ticket-name">{$ ticket.name $}</div>
-                    <span class="price">{$ ticket.price $}</span>
-                    <span class="currency">{$ ticket.currency $}</span>
+                    <span class="price">${$ ticket.price $}</span>
                     <div class="additional-info">{$ ticket.info $}</div>
                     {% if ticket.soldOut %}
                     <div class="sold-out-text">

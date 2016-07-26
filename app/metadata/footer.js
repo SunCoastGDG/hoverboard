@@ -10,16 +10,6 @@ module.exports = {
             newTab: true
           },
           {
-            text: 'GDG DevFest Ukraine 2013',
-            url: 'http://gdg-devfest-ua.appspot.com/',
-            newTab: true
-          },
-          {
-            text: 'GDG DevFest Ukraine 2014',
-            url: 'http://devfest.gdg.org.ua/2014/',
-            newTab: true
-          },
-          {
             text: 'Code of Conduct',
             url: '/code-of-conduct'
           }
