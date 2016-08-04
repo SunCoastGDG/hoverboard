@@ -55,6 +55,7 @@
     "run-sequence": "^1.0.2",
     "stylelint": "^4.3.3",
     "stylelint-config-standard": "^3.0.0",
+    "twit": "2.2.4",
     "vulcanize": ">= 1.4.2",
     "web-component-tester": "^4.0.0"
   },
@@ -73,7 +74,8 @@
     "serve:gae": "gulp serve:gae",
     "test": "gulp test:local",
     "update:all": "npm update && bower update",
-    "update:ver": "ncu -u && ncu -um bower"
+    "update:ver": "ncu -u && ncu -um bower",
+    "refreshTweets": "node refreshTweets.js"
   },
   "engines": {
     "node": ">=4.0"
