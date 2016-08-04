@@ -101,7 +101,7 @@
       }
     </style>
 
-    <google-map zoom="{$ location.pointer.zoom $}" latitude="{$ location.mapCenter.latitude $}"
+    <google-map zoom="{$ location.pointer.zoom $}" latitude="{$ location.mapCenter.latitude $}" api-key="{$ mapsApiKey $}"
                 longitude="{$ location.mapCenter.longitude $}" styles="[[options]]" disable-zoom disable-default-ui>
       <google-map-marker latitude="{$ location.pointer.latitude $}"
                          longitude="{$ location.pointer.longitude $}"></google-map-marker>

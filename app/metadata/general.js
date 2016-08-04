@@ -1,6 +1,6 @@
 module.exports = {
   title: 'DevFest Florida 2016',
-  description: 'The innagural DevFest Florida event is going to be the biggest Google tech conference in central Florida. GDG Space Coast, GDG Central Florida and GDG Sun Coast are collaborating to put together great speakers, code labs and a fun environment to learn more about Web and Android technologies.',
+  description: 'The inaugural DevFest Florida event is going to be the biggest Google tech conference in Central Florida. GDG Space Coast, GDG Central Florida, and GDG Sun Coast are collaborating to put together great speakers, code labs, and a fun environment to learn more about Web and Android technologies.',
   keywords: 'event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, cloud',
   charset: 'utf-8',
   lang: 'en',
