@@ -4,8 +4,8 @@
 # TEAM
 
 Company:     GDG[x]
-Developer:   Oleh Zasadnyy, GDG Lviv
-Site:        https://github.com/gdg-x/hoverboard
+Developer:   Mike Traverso, GDG Sun Coast; Michael Prentice, GDG Space Coast
+Site:        https://github.com/SunCoastGDG/hoverboard
 
 # THANKS
 

@@ -6,7 +6,7 @@ module.exports = {
     counter: 3,
     caption: 'Parallel tracks'
   }, {
-    counter: '10+',
+    counter: 2,
     caption: 'Code Labs'
   }, {
     counter: 20,
@@ -43,7 +43,7 @@ module.exports = {
       info: '*After September 30',
       soldOut: false
     }],
-    details: 'Tickets grant access to all speaker sessions, breakouts, codelabs, coffee breaks, lunch and after party. Accommodation and/or travel is NOT included in the ticket price.'
+    details: 'Tickets grant access to all speaker sessions, breakouts, codelabs, coffee breaks, lunch, and after party. Accommodation and/or travel is NOT included in the ticket price.'
   },
   socialFeed: {
     source: '/data/tweets.json'
