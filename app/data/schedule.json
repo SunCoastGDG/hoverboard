@@ -1,96 +1,130 @@
-[{
+[
+  {
     "date": "2016-11-05",
-    "dateReadable": "November 05",
-    "tracks": [{
+    "dateReadable": "November 5",
+    "tracks": [
+      {
         "title": "Expo area"
-    }, {
+      },
+      {
         "title": "Conference hall"
-    }, {
+      },
+      {
         "title": "Community hall"
-    }],
-    "timeslots": [{
+      }
+    ],
+    "timeslots": [
+      {
         "startTime": "09:00",
         "endTime": "10:00",
         "sessions": [
-            [1001]
+          [
+            1001
+          ]
         ]
-    }, {
+      },
+      {
         "startTime": "10:00",
         "endTime": "10:15",
         "sessions": [
-            [1005]
+          [
+            1005
+          ]
         ]
-    }, {
+      },
+      {
         "startTime": "10:15",
         "endTime": "11:00",
         "sessions": [
-            [125]
+          [
+            1003
+          ]
         ]
-    }, {
+      },
+      {
         "startTime": "11:00",
         "endTime": "11:40",
         "sessions": [
-            [109],
-            [111],
-            [118, 126]
+          [
+            1003
+          ]
         ]
-    }, {
+      },
+      {
         "startTime": "11:50",
         "endTime": "12:30",
         "sessions": [
-            [115],
-            [117],
-            [129, 128]
+          [
+            1003
+          ]
         ]
-    }, {
+      },
+      {
         "startTime": "12:30",
         "endTime": "14:00",
         "sessions": [
-            [1002]
+          [
+            1003
+          ]
         ]
-    }, {
+      },
+      {
         "startTime": "14:00",
         "endTime": "14:40",
         "sessions": [
-            [116],
-            [133],
-            [127]
+          [
+            1003
+          ]
         ]
-    }, {
+      },
+      {
         "startTime": "14:50",
         "endTime": "15:30",
         "sessions": [
-            [113],
-            [124],
-            [139]
+          [
+            1003
+          ]
         ]
-    }, {
+      },
+      {
         "startTime": "15:30",
         "endTime": "16:00",
         "sessions": [
-            [1003]
+          [
+            1003
+          ]
         ]
-    }, {
+      },
+      {
         "startTime": "16:00",
         "endTime": "16:40",
         "sessions": [
-            [101],
-            [106],
-            [138]
+          [
+            101
+          ],
+          [
+            1003
+          ]
         ]
-    }, {
+      },
+      {
         "startTime": "16:50",
         "endTime": "17:30",
         "sessions": [
-            [114],
-            [120],
-            [137, 132]
+          [
+            1003
+          ]
         ]
-    }, {
+      },
+      {
         "startTime": "22:00",
         "endTime": "02:00",
         "sessions": [
-            [1006]
+          [
+            1006
+          ]
         ]
-    }]
-}]
+      }
+    ]
+  }
+]

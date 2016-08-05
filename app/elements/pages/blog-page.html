@@ -183,8 +183,10 @@
         _updateCascadedNodes() {
           var cascaded = Polymer.dom(this.root).querySelectorAll('[cascaded]');
           var cascadedArray = Array.prototype.slice.call(cascaded);
-          this.animationConfig.entry[0].nodes = cascadedArray;
-          this.animationConfig.exit[0].nodes = cascadedArray;
+          if (cascadedArray) {
+            this.animationConfig.entry[0].nodes = cascadedArray;
+            this.animationConfig.exit[0].nodes = cascadedArray;
+          }
         }
 
       }
