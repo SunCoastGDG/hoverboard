@@ -9,7 +9,7 @@ Right now we're looking for people like you to submit papers and talks for the e
 * Universities or Research Institutions
 
 If you belong to one of those groups and you work with Google technologies like Android, Angular, Polymer, Firebase, Material Design, etc,
-we'd love to see your proposal(s) for talks. The deadline for submitting proposals is **September 10**.
+we'd love to see your proposal(s) for talks. The deadline for submitting proposals is **September 10th**.
 We will notify applicants of accepted proposals by September 17th.
 <br/>
 
@@ -25,6 +25,7 @@ Here's a list of some topics that we are looking to hear about.
 * Firebase
 * Design support library
 * Project Tango
+* Google DayDream and Android Virtual Reality
 * Developer Tools
 * Google Cast
 * Wear 2.0
