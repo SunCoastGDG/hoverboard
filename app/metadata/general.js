@@ -32,25 +32,20 @@ module.exports = {
   // Contacts
   social: {
     twitter: {
-      nickname: 'GDGLviv',
-      url: 'https://twitter.com/gdglviv'
+      nickname: 'GDGSunCoast',
+      url: 'https://twitter.com/GDGSunCoast'
     },
     gplus: {
-      nickname: '102444623953913144164',
-      url: 'https://plus.google.com/102444623953913144164'
+      nickname: '+ScgdgOrg',
+      url: 'https://plus.google.com/+ScgdgOrg'
     },
     facebook: {
-      nickname: 'GDGLviv',
-      url: 'https://www.facebook.com/GDGLviv'
-    },
-    // Linkedin company
-    linkedin: {
-      nickname: 'google-developers-group-lviv',
-      url: 'https://www.linkedin.com/company/google-developers-group-lviv'
+      nickname: 'GDG-Space-Coast',
+      url: 'https://www.facebook.com/GDG-Space-Coast-859933177354627'
     }
   },
-  hashtag: 'devfestfl',
-  email: 'devfest@gdg.com',
+  hashtag: 'DevfestFL',
+  email: 'organizers@devfestflorida.org',
   organizer: {
     name: 'GDG Lviv',
     blog: 'http://lviv.gdg.org.ua'

@@ -2,15 +2,15 @@
     "title": "Organizers",
     "logos": [{
         "name": "GDG Sun Coast",
-        "url": "https://github.com/gdg-x",
+        "url": "http://www.gdgsuncoast.org/",
         "logoUrl": "../images/partners/SunCoast.svg"
     },{
         "name": "GDG Central Florida",
-        "url": "https://github.com/gdg-x",
+        "url": "http://www.meetup.com/GDG-Central-Florida/",
         "logoUrl": "../images/partners/CentralFlorida.svg"
     },{
         "name": "GDG Space Coast",
-        "url": "https://github.com/gdg-x",
+        "url": "http://www.gdgspacecoast.org/",
         "logoUrl": "../images/partners/SpaceCoast.svg"
     }]
 }, {

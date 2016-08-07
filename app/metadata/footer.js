@@ -17,31 +17,15 @@ module.exports = {
       },
       {
         title: 'For partners',
-        links: [
-          {
-            text: 'Partnership Proposition',
-            url: '/assets/GDG_DevFest_Ukraine_2015_Partnership_Proposition.pdf',
-            newTab: true
-          },
-          {
-            text: 'Media Kit',
-            url: 'http://bit.ly/dfua-media',
-            newTab: true
-          },
-          {
-            text: 'Media Accreditation',
-            url: 'https://docs.google.com/forms/d/1sOjuv7rv77JXq2jPBdh3tg-O4CV8HpLTED5cjJBxnG8/viewform',
-            newTab: true
-          }
-        ]
+        links: []
       }
     ],
     contactBlock: {
       title: 'Contact us',
       links: [
         {
-          text: 'devfest@google.com',
-          url: 'mailto:devfest@google.com'
+          text: 'organizers@devfestflorida.org',
+          url: 'mailto:organizers@devfestflorida.org'
         }
       ]
     }
