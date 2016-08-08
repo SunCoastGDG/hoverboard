@@ -17,7 +17,11 @@ module.exports = {
       },
       {
         title: 'For partners',
-        links: []
+        links: [{
+          text: 'Partnership Proposition',
+          url: '/assets/DevFestFloridaPartnershipProposal.pdf',
+          newTab: true
+        }]
       }
     ],
     contactBlock: {

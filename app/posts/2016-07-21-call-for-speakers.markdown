@@ -51,4 +51,4 @@ Here's a list of some topics that we are looking to hear about.
 The program committee will deliberate and select proposals that are expected to generate the most interest.
 The committee will inform all applicants of the status of their proposal by September 17, 2016.<br/>
 
-Any questions? Email organizers at [organizers@devfestflorida.org](mailto:organizers@devfestflorida.org)
+Any questions? Email the organizers at [organizers@devfestflorida.org](mailto:organizers@devfestflorida.org).
