@@ -10,8 +10,9 @@ module.exports = {
     mapsApiKey: 'AIzaSyDhlDqyb5mOtdHMsrQpMuYkbIegvj030Q4',
     // Mailchimp subscribe
     mailchimp: {
-        url: 'YOUR_MAILCHIMP_URL',
-        name: 'YOUR_MAILCHIMP_NAME'
+        // url: 'http://eepurl.com/caSFjb',
+        url: '//firebaseapp.us13.list-manage.com/subscribe/post?u=3f4db9aefbaccd123ad402ffd&amp;id=74fc03d0fa',
+        name: 'GDG DevFest Florida 2016'
     },
     disqusShortName: 'devfestflorida'
 };

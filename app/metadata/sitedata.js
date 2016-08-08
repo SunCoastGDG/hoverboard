@@ -13,7 +13,7 @@ module.exports = {
     caption: 'Sessions'
   }],
   callToAction: {
-    text: 'GDG DevFest Sun Coast 2015',
+    text: 'Android DevFest Space Coast 2014 - Photos',
     buttonText: 'See how it was',
     video: {
       id: 't95z_HLMTmM',
@@ -21,24 +21,27 @@ module.exports = {
     }
   },
   galleryBlock: {
-    title: 'GDG DevFest Sun Coast 2015 - Photos',
+    title: 'Android DevFest Space Coast 2014 - Photos',
     photos: {
-      big: '../images/backgrounds/2015_1.jpg',
-      small: ['../images/backgrounds/2015_2.jpg', '../images/backgrounds/2015_3.jpg']
+      big: '../images/backgrounds/AndroidDevFestSpaceCoast2014_AndroidTV.jpg',
+      small: [
+        '../images/backgrounds/AndroidDevFestSpaceCoast2014_Design-Winners.jpg',
+        '../images/backgrounds/AndroidDevFestSpaceCoast2014_Auditorium.jpg'
+      ]
     },
-    albumUrl: 'https://plus.google.com/photos/103948420531198832035/albums/6215552964698512225'
+    albumUrl: 'https://goo.gl/photos/e4FPjXYXJYUh9YqSA'
   },
   ticketsBlock: {
     title: 'Tickets',
     tickets: [{
       name: 'Early Bird',
-      price: 30,
+      price: 'TBA',
       currency: 'USD',
       info: '*Before September 30',
       soldOut: false
     }, {
       name: 'Lazy Bird',
-      price: 45,
+      price: 'TBA',
       currency: 'USD',
       info: '*After September 30',
       soldOut: false

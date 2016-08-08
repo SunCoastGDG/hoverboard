@@ -4,7 +4,7 @@ module.exports = {
     permalink: '/',
     text: 'Home',
     heroSettings: {
-      backgroundColor: '#ffaa00',
+      backgroundColor: '#03A9F4',
       backgroundImage: '/images/backgrounds/home.png',
       fontColor: '#FFFFFF',
       tabBarColor: '#FFFFFF'

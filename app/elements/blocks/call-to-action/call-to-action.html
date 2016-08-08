@@ -46,11 +46,7 @@
 
     <div class="container container-narrow">
       <h4 class="heading">{$ callToAction.text $}</h4>
-      <paper-button class="open-dialog-button" on-tap="playVideo">{$ callToAction.buttonText $}</paper-button>
     </div>
-    <video-dialog id="videoDialog" title="{$ callToAction.video.title $}" youtube-id="{$ callToAction.video.id $}"
-                  entry-animation="scale-up-animation"
-                  exit-animation="scale-down-animation" modal disable-controls></video-dialog>
 
   </template>
 
