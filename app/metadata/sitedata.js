@@ -6,6 +6,9 @@ module.exports = {
     counter: 3,
     caption: 'Parallel tracks'
   }, {
+    counter: 1,
+    caption: 'Tango Hackathon'
+  }, {
     counter: '2+',
     caption: 'Code Labs'
   }, {
