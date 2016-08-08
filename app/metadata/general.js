@@ -36,8 +36,8 @@ module.exports = {
       url: 'https://twitter.com/DevFestFlorida'
     },
     gplus: {
-      nickname: '+ScgdgOrg',
-      url: 'https://plus.google.com/+ScgdgOrg'
+      nickname: '+DevFestFloridaOrg',
+      url: 'https://plus.google.com/+DevFestFloridaOrg'
     },
     facebook: {
       nickname: 'devfestflorida',
