@@ -37,7 +37,7 @@ for further information on custom CSS properties.
   --web: #2196F3;
   --cloud: #3F51B5;
   --community: #E91E63;
-  --angularjs: #E0343D;
+  --angular: #E0343D;
   --polymer: #D81B60;
   --dart: #00B4AA;
   --firebase: #FF9800;
@@ -55,4 +55,5 @@ for further information on custom CSS properties.
   --ux: #9C27B0;
   --material-design: #009688;
   --entrepreneurship: #673AB7;
+  --tango: #FF9800;
 }

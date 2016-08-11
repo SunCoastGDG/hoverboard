@@ -2,31 +2,34 @@
   "1001": {
     "id": 1001,
     "title": "Registration & morning Coffee",
-    "description": "Get your badge, coffee, and then enjoy talking with great people"
+    "description": "Get your badge, coffee, and then enjoy talking with great people",
+    "tags": ["general"]
   },
   "1002": {
     "id": 1002,
     "title": "Lunch",
     "description": "Lunch break",
-    "tags": ["Break"]
+    "tags": ["general"]
   },
   "1003": {
     "id": 1003,
     "title": "Coffee break",
     "description": "Coffee break",
-    "tags": ["Break"]
+    "tags": ["general"]
   },
   "1004": {
     "id": 1004,
     "title": "DevFest Florida Keynote",
-    "description": "Keynote presentation"
+    "description": "Keynote presentation",
+    "tags": ["general"]
   },
   "1005": {
     "id": 1005,
     "title": "GDG DevFest Florida 2016 Opening",
     "description": "Official start of the conference. Greetings from the organizers, sponsors, and partners.",
     "language": "English",
-    "complexity": "Beginner"
+    "complexity": "Beginner",
+    "tags": ["general"]
   },
   "1006": {
     "id": 1006,
@@ -34,14 +37,16 @@
     "description": "The after party is a great place to have some fun and meet new people.<br/><br/><b>Location</b>: TBA<br/><br/>Don't forget to bring your badge.",
     "track": {
       "title": "TBA"
-    }
+    },
+    "tags": ["general"]
   },
   "1007": {
     "id": 1007,
     "title": "Conference closing and contest winners announcements",
     "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
     "language": "English",
-    "complexity": "Beginner"
+    "complexity": "Beginner",
+    "tags": ["general"]
   },
   "101": {
     "id": 101,
@@ -51,10 +56,10 @@
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
-      "Firebase",
-      "Material Design",
-      "Polymer",
-      "Angular"
+      "angular",
+      "firebase",
+      "material-design",
+      "polymer"
     ]
   },
   "102": {
@@ -65,8 +70,8 @@
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
-      "Tango",
-      "Android"
+      "tango",
+      "android"
     ]
   },
   "103": {
@@ -76,7 +81,7 @@
     "speakers": [],
     "language": "English",
     "complexity": "Beginner",
-    "tags": ["Break"]
+    "tags": ["web"]
   },
   "104": {
     "id": 104,
@@ -85,6 +90,6 @@
     "speakers": [],
     "language": "English",
     "complexity": "Beginner",
-    "tags": ["Break"]
+    "tags": ["android"]
   }
 }
