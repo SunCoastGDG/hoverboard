@@ -7,17 +7,19 @@
   "1002": {
     "id": 1002,
     "title": "Lunch",
-    "description": "Foooooooood!"
+    "description": "Lunch break",
+    "tags": ["Break"]
   },
   "1003": {
     "id": 1003,
     "title": "Coffee break",
-    "description": "Coffeeeeeee!"
+    "description": "Coffee break",
+    "tags": ["Break"]
   },
   "1004": {
     "id": 1004,
-    "title": "Morning coffee",
-    "description": "Coffeeeeeee!"
+    "title": "DevFest Florida Keynote",
+    "description": "Keynote presentation"
   },
   "1005": {
     "id": 1005,
@@ -29,9 +31,9 @@
   "1006": {
     "id": 1006,
     "title": "After party & Networking",
-    "description": "After party is a great time to have some fun and meet new people.<br/><br/><b>Location</b>: Club Arsenal Market, [Pidvalna St 5](http://club.arsenalmarket.lviv.ua/uk/contacts/)<br/><br/>Free shot for all DevFest attendees included.<br/><br/>Don't forget to bring your badge.",
+    "description": "The after party is a great place to have some fun and meet new people.<br/><br/><b>Location</b>: TBA<br/><br/>Don't forget to bring your badge.",
     "track": {
-      "title": "Club Arsenal Market"
+      "title": "TBA"
     }
   },
   "1007": {
@@ -45,9 +47,7 @@
     "id": 101,
     "title": "Build your MVP with Angular 2, Firebase, Polymer",
     "description": "If you need to build a MVP for an idea or startup, then you need to have tools that work right now and ultra-productive. Angular 2 provides a great starting point for this, but you still need to handle Authentication, database, back-end servers, and quality UI components. AngularFire2 makes the Authentication easy. It provides a real-time, managed database. This means no servers to setup! Angular2-Polymer gives you easy access to the huge library of standards-based Polymer Web Components. This includes Material Design components, Flexbox Layouts, data grids, and Google components like Google Maps.",
-    "speakers": [
-      1
-    ],
+    "speakers": [1],
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
@@ -56,5 +56,35 @@
       "Polymer",
       "Angular"
     ]
+  },
+  "102": {
+    "id": 102,
+    "title": "Tango Hackathon",
+    "description": "Join Hackathon teams and build Virtual Reality or Augmented Reality apps on real Tango devices.",
+    "speakers": [],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": [
+      "Tango",
+      "Android"
+    ]
+  },
+  "103": {
+    "id": 103,
+    "title": "TBA Web Talk",
+    "description": "Coming soon",
+    "speakers": [],
+    "language": "English",
+    "complexity": "Beginner",
+    "tags": ["Break"]
+  },
+  "104": {
+    "id": 104,
+    "title": "TBA Android Talk",
+    "description": "Coming soon",
+    "speakers": [],
+    "language": "English",
+    "complexity": "Beginner",
+    "tags": ["Break"]
   }
 }
