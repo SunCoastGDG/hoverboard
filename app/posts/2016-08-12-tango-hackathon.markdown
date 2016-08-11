@@ -1,4 +1,4 @@
-# **Tango? Sorry I don't dance**
+# **Tango? Sorry, I don't dance**
 So if you thought DevFest Florida was holding a dance competition you're out of luck. Although maybe next year? No we're talking about Tango, which was formerly Project Tango. Tango is computer vision platform that lets certain Android phones and tablets understand their position relative to its surroundings without using GPS. This allows you to build some advanced augmented reality apps. You may have seen some of the apps at your local I/O Extended event. Like the dinosaurs on stage OR the Wayfair unboxing of furniture in your house to check out what that piece would look like in your own home. Check out a brief demo below of just one of the things you can do with Tango.
 
 <iframe height="400" src="https://www.youtube.com/embed/_w1V0VyVsPM" frameborder="0" allowfullscreen style="width: 100%"></iframe>
