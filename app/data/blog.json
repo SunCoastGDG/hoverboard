@@ -1,11 +1,20 @@
 [
   {
+    "id": "code-of-conduct",
+    "title": "DevFest Florida Code of Conduct",
+    "posted": "2016-07-01",
+    "primaryColor": "#03A9F4",
+    "secondaryColor": "#03A9F4",
+    "image": "/images/posts/code-of-conduct.jpg",
+    "brief": "Code of Conduct"
+  },
+  {
     "id": "devfest-florida-2016-announced",
     "title": "DevFest Florida 2016 Announced",
     "posted": "2016-07-19",
     "primaryColor": "#03A9F4",
     "secondaryColor": "#03A9F4",
-    "image": "/images/posts/devfest_2016_header.png",
+    "image": "/images/posts/announce-white.png",
     "brief": "The Google Developer Groups of Central Florida, Space Coast and Sun Coast are proud to announce the first annual DevFest Florida 2016 - the largest Google related event in Florida!"
   },
   {
@@ -25,5 +34,14 @@
     "secondaryColor": "#673AB7",
     "image": "/images/posts/microphone.jpg",
     "brief": "We're preparing this DevFest to be full of great content in the Android and Web space but if you've got a great talk about anything in the Google technology space, an amazing app or library, and want to share it in front of your peers we want to hear from you! - <a href='https://devfestflorida.org'>DevFest Florida 2016</a>."
+  },
+  {
+    "id": "tango-hackathon",
+    "title": "Tango Hackathon Details",
+    "posted": "2016-08-12",
+    "primaryColor": "#673AB7",
+    "secondaryColor": "#FF9800",
+    "image": "/images/posts/tango.png",
+    "brief": "One of the amazing aspects of DevFest Florida is the Tango Hackathon! Are you interested in getting hands on experience with Tango? Looking to build crazy awesome augmented reality apps that would put Pokemon Go to shame? Tango lets you do this. Check out this article on how to participate in the hackathon to get your Tango app noticed and win some pretty cool prizes."
   }
 ]

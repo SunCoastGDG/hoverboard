@@ -11,7 +11,7 @@ module.exports = {
           },
           {
             text: 'Code of Conduct',
-            url: '/code-of-conduct'
+            url: '/posts/2016-07-01-code-of-conduct'
           }
         ]
       },
