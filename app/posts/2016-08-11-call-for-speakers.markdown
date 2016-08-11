@@ -1,4 +1,4 @@
-DevFest Florida 2016 will be held on **November 05** in the Orlando area.
+DevFest Florida 2016 will be held on **November 5th** in the Orlando area.
 Right now we're looking for people like you to submit papers and talks for the event.
 
 

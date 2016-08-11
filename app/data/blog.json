@@ -2,16 +2,16 @@
   {
     "id": "code-of-conduct",
     "title": "DevFest Florida Code of Conduct",
-    "posted": "2016-07-01",
+    "posted": "2016-08-02",
     "primaryColor": "#03A9F4",
     "secondaryColor": "#03A9F4",
     "image": "/images/posts/code-of-conduct.jpg",
-    "brief": "Code of Conduct"
+    "brief": "DevFest Florida Code of Conduct"
   },
   {
     "id": "devfest-florida-2016-announced",
     "title": "DevFest Florida 2016 Announced",
-    "posted": "2016-07-19",
+    "posted": "2016-08-08",
     "primaryColor": "#03A9F4",
     "secondaryColor": "#03A9F4",
     "image": "/images/posts/announce-white.png",
@@ -20,7 +20,7 @@
   {
     "id": "what-to-do-in-orlando",
     "title": "Top Things to Do in Orlando",
-    "posted": "2016-07-20",
+    "posted": "2016-08-09",
     "primaryColor": "#3F51B5",
     "secondaryColor": "#3F51B5",
     "image": "/images/posts/what_to_do_orlando_2.jpg",
@@ -29,7 +29,7 @@
   {
     "id": "call-for-speakers",
     "title": "Call for Speakers",
-    "posted": "2016-07-21",
+    "posted": "2016-08-11",
     "primaryColor": "#673AB7",
     "secondaryColor": "#673AB7",
     "image": "/images/posts/microphone.jpg",
@@ -42,6 +42,6 @@
     "primaryColor": "#673AB7",
     "secondaryColor": "#FF9800",
     "image": "/images/posts/tango.png",
-    "brief": "One of the amazing aspects of DevFest Florida is the Tango Hackathon! Are you interested in getting hands on experience with Tango? Looking to build crazy awesome augmented reality apps that would put Pokemon Go to shame? Tango lets you do this. Check out this article on how to participate in the hackathon to get your Tango app noticed and win some pretty cool prizes."
+    "brief": "One of the exciting aspects of DevFest Florida is the Tango Hackathon! Are you interested in getting hands on experience with Tango? Looking to build crazy, awesome augmented reality apps that would put Pokemon Go to shame? Tango lets you do this. Check out this article on how to participate in the hackathon to get your Tango app noticed and win some pretty cool prizes."
   }
 ]
