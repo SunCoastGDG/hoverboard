@@ -1,5 +1,14 @@
 [
   {
+    "id": "code-of-conduct",
+    "title": "DevFest Florida Code of Conduct",
+    "posted": "2016-07-01",
+    "primaryColor": "#03A9F4",
+    "secondaryColor": "#03A9F4",
+    "image": "/images/posts/code-of-conduct.jpg",
+    "brief": "Code of Conduct"
+  },
+  {
     "id": "devfest-florida-2016-announced",
     "title": "DevFest Florida 2016 Announced",
     "posted": "2016-07-19",
