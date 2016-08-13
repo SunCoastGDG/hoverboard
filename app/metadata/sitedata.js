@@ -34,6 +34,10 @@ module.exports = {
     },
     albumUrl: 'https://goo.gl/photos/e4FPjXYXJYUh9YqSA'
   },
+  signUpBlock: {
+    title: 'Tickets on sale soon',
+    details: 'Tickets will be going on sale soon. Sign up to be the first to get notified.'
+  },
   ticketsBlock: {
     title: 'Tickets',
     tickets: [{
