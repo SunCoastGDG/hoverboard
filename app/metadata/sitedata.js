@@ -9,10 +9,7 @@ module.exports = {
     counter: 1,
     caption: 'Tango Hackathon'
   }, {
-    counter: '2+',
-    caption: 'Code Labs'
-  }, {
-    counter: '20+',
+    counter: '10+',
     caption: 'Sessions'
   }],
   callToAction: {
