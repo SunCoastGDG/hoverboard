@@ -16,8 +16,8 @@ for further information on custom CSS properties.
 
 :root {
   /* Footer */
-  --footer-background-color: #FCFCFC;
-  --footer-text-color: #757575;
+  --footer-background-color: #0094D7;
+  --footer-text-color: #FFF;
 
   /* Application colors  */
   --dark-primary-color: #0288D1;
