@@ -23,16 +23,18 @@ module.exports = {
       fontColor: '#FFFFFF',
       tabBarColor: '#FFFFFF'
     }
-  }, {
-    route: 'schedule',
-    permalink: '/schedule',
-    text: 'Schedule',
-    heroSettings: {
-      backgroundColor: '#607D8B',
-      fontColor: '#FFFFFF',
-      tabBarColor: '#FFFFFF'
-    }
-  }, {
+  },
+  //  {
+  //   route: 'schedule',
+  //   permalink: '/schedule',
+  //   text: 'Schedule',
+  //   heroSettings: {
+  //     backgroundColor: '#607D8B',
+  //     fontColor: '#FFFFFF',
+  //     tabBarColor: '#FFFFFF'
+  //   }
+  // },
+   {
     route: 'speakers',
     permalink: '/speakers',
     text: 'Speakers',
