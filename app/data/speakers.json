@@ -28,5 +28,35 @@
         "link": "https://github.com/splaktar"
       }
     ]
+  },
+  "2": {
+    "id": 2,
+    "featured": true,
+    "name": "Mark Murphy",
+    "title": "Founder, CommonsWare & Author of <a href='https://commonsware.com/Android'>The Busy Coder’s Guide to Android Development</a>",
+    "company": "CommonsWare",
+    "country": " United States",
+    "photoUrl": "/images/people/mark_murphy.jpg",
+    "bio": "Mark Murphy is the founder of CommonsWare and the author of <a href='https://commonsware.com/Android'>The Busy Coder’s Guide to Android Development</a>. He is active in supporting the Android developer community, from <a href='http://stackoverflow.com/users/115145/commonsware'>answering questions on Stack Overflow</a> to <a href='http://github.com/commonsguy'>publishing sample code and reusable components as open source</a>.<br><br>A three-time entrepreneur, his experience ranges from consulting on open source and collaborative development for the Fortune 500 to application development on a myriad of platforms. A polished speaker, Mr. Murphy has delivered conference presentations and training sessions on a wide array of topics internationally.",
+    "tags": [
+      "Android", "UI/UX", "Nougat"
+    ],
+    "socials": [
+      {
+        "name": "Blog",
+        "icon": "website",
+        "link": "https://commonsware.com/blog/"
+      },
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/commonsguy"
+      },
+      {
+        "name": "GitHub",
+        "icon": "github",
+        "link": "https://github.com/commonsguy"
+      }
+    ]
   }
 }
