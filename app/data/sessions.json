@@ -76,20 +76,20 @@
   },
   "103": {
     "id": 103,
-    "title": "TBA Web Talk",
-    "description": "Coming soon",
-    "speakers": [],
+    "title": "Innovating is not about technology, but psychology",
+    "description": "“It is the recognition that well-read is not a destination, there is nowhere to get to and if there was somewhere to get to, you would need a thousand years to even think about getting there.” -Linda Holmes<br><br>Many people strive to be “well-read” as developers or designers, they want to know & do it all. But why? All in the name of being “well-read”? All just to say “Yeah — I’ve done that”?<br><br>Why do we do what we do? Why do we try so hard? Why are we here, paying to be here, to listen to people talk? Maybe because we’re life long learners - we want to learn new things? Commune with our own kind? But why? Come examine our motives as developers, the pitfalls we fall into, and the cost of being great.",
+    "speakers": [3],
     "language": "English",
     "complexity": "Beginner",
     "tags": ["web"]
   },
   "104": {
     "id": 104,
-    "title": "TBA Android Talk",
-    "description": "Coming soon",
-    "speakers": [],
+    "title": "Multi-Window and Your App",
+    "description": "Vendors large and small have offered multiple windows in their Android devices. Now, with Android 7.0, we are getting multiple windows in standard Android... and in the new Android-on-ChromeOS environment. This class will explore how to support multi-window modes in your Android applications, with particular emphasis on the split-screen mode for phones and tablets. We will look at how your app will behave in these environments without any changes and how you can make minor tweaks to improve your results. We will also examine what quirks will be seen with multi-window mode and what sorts of UX decisions you will need to make as a result. Finally, we will see how you can start testing your app in these modes, to begin making tactical changes and run experiments for longer-term strategic choices.",
+    "speakers": [2],
     "language": "English",
     "complexity": "Beginner",
-    "tags": ["android"]
+    "tags": ["android", "ui/ux", "Nougat"]
   }
 }
