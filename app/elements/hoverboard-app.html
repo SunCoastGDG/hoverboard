@@ -39,8 +39,7 @@
 
       <paper-scroll-header-panel id="headerPanelMain" class="Main scroll" main>
 
-        <hero-toolbar route="{{route}}" font-color="{{heroSettings.fontColor}}"
-                      background-color="{{heroSettings.backgroundColor}}"
+        <hero-toolbar route="{{route}}" font-color="{{heroSettings.fontColor}}" background-color="{{heroSettings.backgroundColor}}"
                       background-image="{{heroSettings.backgroundImage}}" tab-bar-color="{{heroSettings.tabBarColor}}"
                       video="{{heroSettings.video}}"></hero-toolbar>
 
@@ -53,8 +52,8 @@
                      hero-settings="{{heroSettings}}"></post-page>
           <speakers-page class="Page" data-route="speakers" speakers="{{speakers}}" hero-settings="{{heroSettings}}"
                          speaker-id="{{params.id}}"></speakers-page>
-          <!-- <schedule-page class="Page" data-route="schedule" schedule="{{schedule}}" sessions="{{sessions}}"
-                         hero-settings="{{heroSettings}}" session-id="{{params.id}}"></schedule-page> -->
+          <schedule-page class="Page" data-route="schedule" schedule="{{schedule}}" sessions="{{sessions}}"
+                         hero-settings="{{heroSettings}}" session-id="{{params.id}}"></schedule-page>
         </neon-animated-pages>
       </paper-scroll-header-panel>
     </paper-drawer-panel>

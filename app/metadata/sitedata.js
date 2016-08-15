@@ -1,6 +1,6 @@
 module.exports = {
   statistics: [{
-    counter: 100,
+    counter: '100+',
     caption: 'Attendees'
   }, {
     counter: 3,

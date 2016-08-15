@@ -12,9 +12,9 @@
       :host {
         display: block;
         width: 100%;
-        --paper-input-container-color: var(--mailchimp-color);
-        --paper-input-container-focus-color: var(--mailchimp-focus-color);
-        --paper-input-container-input-color: var(--mailchimp-focus-color);
+        --paper-input-container-color: var(--footer-text-color);
+        --paper-input-container-focus-color: var(--accent-color);
+        --paper-input-container-input-color: var(--secondary-text-color);
       }
 
       .mc_embed_signup {
@@ -33,6 +33,7 @@
       paper-input-container,
       .mc-embedded-subscribe-form {
         width: 100%;
+        max-width: 600px;
       }
 
       paper-input-container input,
@@ -62,7 +63,7 @@
           <input type="text" name="[[ name ]]" tabindex="-1">
         </div>
         <div class="mc-submit-group">
-          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" style="display:none">
+          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" style="display: none">
         </div>
       </form>
     </div>

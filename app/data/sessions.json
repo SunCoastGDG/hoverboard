@@ -59,7 +59,8 @@
       "angular",
       "firebase",
       "material-design",
-      "polymer"
+      "polymer",
+      "entrepreneurship"
     ]
   },
   "102": {
@@ -90,6 +91,6 @@
     "speakers": [2],
     "language": "English",
     "complexity": "Beginner",
-    "tags": ["android", "ui/ux", "Nougat"]
+    "tags": ["android", "ux", "entrepreneurship"]
   }
 }

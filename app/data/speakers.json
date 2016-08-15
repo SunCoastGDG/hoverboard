@@ -9,7 +9,7 @@
     "photoUrl": "/images/people/michael_prentice.jpg",
     "bio": "Michael Prentice is a consultant on Angular, Material Design, software architecture, and agile project management. He is the founder of GDG Space Coast and a GDG NA South Region Mentor. He is a team collaborator on Angular Material and GDG-X. He is currently working on his own company, DevIntent.",
     "tags": [
-      "Angular", "Material Design", "Firebase"
+      "angular", "material-design", "firebase", "entrepreneurship", "web", "community"
     ],
     "socials": [
       {
@@ -39,7 +39,7 @@
     "photoUrl": "/images/people/mark_murphy.jpg",
     "bio": "Mark Murphy is the founder of CommonsWare and the author of <a href='https://commonsware.com/Android'>The Busy Coder’s Guide to Android Development</a>.  He is active in supporting the Android developer community, from <a href='http://stackoverflow.com/users/115145/commonsware'>answering questions on Stack Overflow</a> to <a href='http://github.com/commonsguy'>publishing sample code and reusable components as open source</a>.<br><br>A three-time entrepreneur, his experience ranges from consulting on open source and collaborative development for the Fortune 500 to application development on a myriad of platforms. A polished speaker, Mr. Murphy has delivered conference presentations and training sessions on a wide array of topics internationally.",
     "tags": [
-      "Android", "UI/UX", "Nougat"
+      "android", "ux", "entrepreneurship"
     ],
     "socials": [
       {
@@ -68,7 +68,7 @@
     "country": " United States",
     "photoUrl": "/images/people/alyssa_nicoll.jpg",
     "bio": "I am an energetic, über passionate developer. I am a Google Developer Expert, Web Dev at WeaveUp and I have some Front-End and Angular courses on Code School. I love to learn new things and then share them with others. I Scuba Dive and have a toothless dog named 'Gummy'. My name is Alyssa, come talk sometime.",
-    "tags": ["Web", "Android", "Psychology"],
+    "tags": ["web", "angular", "community"],
     "socials": [
       {
         "name": "Blog",
