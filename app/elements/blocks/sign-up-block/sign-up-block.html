@@ -14,54 +14,14 @@
                 background: var(--default-primary-color);
                 color: var(--text-primary-color);
             }
-
-            .subscribe {
-              @apply(--layout-flex);
-            }
-            .subscribe-button {
-              @apply(--layout-vertical);
-              @apply(--layout-center-center);
-            }
-
-            .input.mailchimp-subscribe {
-              color: white;
-            }
-            .paper-input-container input {
-              color: white;
-            }
-
             .container {
                 @apply(--layout-vertical);
                 @apply(--layout-wrap);
                 padding-bottom: 35px;
             }
-
-            .additional-info {
-                margin-top: -5px;
-                font-size: 13px;
-            }
-
             .details {
                 margin-top: 10px;
                 font-size: 18px;
-            }
-
-            paper-dialog {
-                background: #fff;
-            }
-
-            paper-dialog .buttons {
-                color: initial;
-            }
-
-            @media (min-width: 601px) {
-                .price-block-wrapper {
-                    @apply(--layout-horizontal);
-                }
-
-                .price-block:not(:first-of-type) {
-                    margin: 0;
-                }
             }
         </style>
 
@@ -70,7 +30,8 @@
             <span class="details">{$ signUpBlock.details $}</span>
 
             <div class="subscribe">
-              <mailchimp-subscribe url="//firebaseapp.us13.list-manage.com/subscribe/post?u=3f4db9aefbaccd123ad402ffd&amp;id=74fc03d0fa" name="GDG DevFest Florida 2016"></mailchimp-subscribe>
+              <mailchimp-subscribe url="//firebaseapp.us13.list-manage.com/subscribe/post?u=3f4db9aefbaccd123ad402ffd&amp;id=74fc03d0fa"
+                                   name="GDG DevFest Florida 2016"></mailchimp-subscribe>
             </div>
         </div>
     </template>

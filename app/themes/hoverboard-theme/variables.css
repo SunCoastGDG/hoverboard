@@ -16,8 +16,8 @@ for further information on custom CSS properties.
 
 :root {
   /* Footer */
-  --footer-background-color: #0094D7;
-  --footer-text-color: #FFF;
+  --footer-background-color: #03A9F4;
+  --footer-text-color: #F7F5F5;
 
   /* Application colors  */
   --dark-primary-color: #0288D1;
@@ -56,7 +56,4 @@ for further information on custom CSS properties.
   --material-design: #009688;
   --entrepreneurship: #673AB7;
   --tango: #FF9800;
-  --mailchimp-color: #F7F5F5;
-  --mailchimp-input-color: #000;
-  --mailchimp-focus-color: #2F4F4F;
 }
