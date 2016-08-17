@@ -10,7 +10,7 @@ module.exports = {
   appleMobileWebAppTitle: 'DevFest Florida 2016',
 
   // Event details
-  dates: 'November 05, 2016',
+  dates: 'November 5th, 2016',
   location: {
     title: 'Orlando, Florida',
     description: 'We\'re looking forward to being able to share our venue details with you as soon as we can!',

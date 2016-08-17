@@ -116,10 +116,16 @@
           height: 48px;
         }
       }
+      .dates {
+        position: fixed;
+        top: 51px;
+        margin-left: 16px;
+        font-size: 14px;
+        font-weight: 400;
+      }
     </style>
 
-    <iron-image class="placeholder-color toolbar-image" src="[[backgroundImage]]" sizing="cover" preload
-                fade></iron-image>
+    <iron-image class="placeholder-color toolbar-image" src="[[backgroundImage]]" sizing="cover" preload fade></iron-image>
     <div class="image-overlay" show$={{backgroundImage}}></div>
     <div class="container">
       <paper-toolbar class="tall">
@@ -130,6 +136,7 @@
             <iron-image class="logo" src="{$ baseurl $}/images/logo-white.svg" sizing="contain"
                         alt="{$ title $}"></iron-image>
           </a>
+          <span class="dates" hidden$="{{smallScreen}}">{$ dates $}</span>
         </div>
         <paper-tabs attr-for-selected="data-route" selected="{{route}}" hidden$="{{smallScreen}}" noink>
           {% for nav in navigation %}
