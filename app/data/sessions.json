@@ -91,6 +91,15 @@
     "speakers": [2],
     "language": "English",
     "complexity": "Beginner",
-    "tags": ["android", "ux", "entrepreneurship"]
+    "tags": ["android", "ui/ux", "Nougat"]
+  },
+  "105": {
+    "id": 105,
+    "title": "Developing Apps for Daydream and Tango",
+    "description": "Starting an App with a Virtual or Augmented reality component is a bit daunting for most. When starting out, frameworks like Unity3D or Unreal Engine simplify a great many things.<br><br>But, from an Android developer perspective, you need to forget all about the nice APIs and libraries you're used to. You'll need to shoehorn your business logic in frameworks that are designed to build games first, not apps -- not a great proposition.<br><br>Let's explore the path less traveled together! In this session, we'll see how you can build VR and AR applications, in Java and Android Studio, thanks to Google's Daydream and Tango Java SDKs, plus a few helpful 3D graphics libraries.",
+    "speakers": [4],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": ["android", "virtual reality", "tango", "daydream"]
   }
 }

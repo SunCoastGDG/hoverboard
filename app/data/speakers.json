@@ -81,5 +81,30 @@
         "link": "https://twitter.com/AlyssaNicoll"
       }
     ]
-  }
+  },
+  "4": {
+    "id": 4,
+    "featured": true,
+    "name": "Etienne Caron",
+    "title": "Mobile Dev Lead & Google Developer Expert",
+    "company": "Shopify",
+    "country": " United States",
+    "photoUrl": "/images/people/etienne_caron.jpg",
+    "bio": "Etienne is a software developer who’s worked on all tiers (server, web, mobile and embedded) of large scale software platforms. He is now a Mobile Dev Lead for Shopify, and is part of Google's Developer Expert program.<br><br>Etienne got his start in programming in the mid-'80s obsessing over C64 demos, and went on to organize the NAID 95/96 demoparties. 3D animation, procedural content generation and VR are some of his hobbies, and he loves to introduce other developers to this fascinating field. He also regularly volunteers his time towards mentoring startups, developers and students in the mobile space. As part of the Montreal Android GDG, he organises meet-ups, hackathons, and gives regular talks on Android and VR-related subjects.<br><br>Previously, Etienne worked on projects ranging from high-availability stock trading software platforms, all the way to large scale municipal bike sharing systems (London’s cycle Hire amongst others). He lives in Montreal with his wife and daughter, and speaks French and English fluently.",
+    "tags": [
+      "Android", "Virtual Reality", "Tango", "Daydream"
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/kanawish"
+      },
+      {
+        "name": "GitHub",
+        "icon": "github",
+        "link": "https://github.com/kanawish"
+      }
+    ]
+  },
 }
