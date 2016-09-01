@@ -1,7 +1,7 @@
 {
   "1": {
     "id": 1,
-    "featured": true,
+    "featured": false,
     "name": "Michael Prentice",
     "title": "Founder, GDG Space Coast",
     "company": "DevIntent",
