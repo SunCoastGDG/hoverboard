@@ -1,4 +1,34 @@
 [{
+    "title": "Platinum Sponsors",
+    "logos": [{
+        "name": "Google",
+        "url": "https://www.google.com.ua/intl/en/about/",
+        "logoUrl": "../images/partners/google.svg"
+    }, {
+        "name": "Traversoft",
+        "url": "https://www.traversoft.com/",
+        "logoUrl": "../images/partners/traversoft.png"
+    }]
+}, {
+    "title": "Gold Sponsors",
+    "logos": [{
+        "name": "Google Cloud",
+        "url": "https://cloud.google.com/",
+        "logoUrl": "../images/partners/google-cloud.png"
+    }]
+},
+ {
+    "title": "Copper Sponsors",
+    "logos": [{
+        "name": "DataPsy",
+        "url": "http://www.datapsy.com/",
+        "logoUrl": "../images/partners/datapsy.png"
+    },{
+        "name": "GDG[x]",
+        "url": "https://github.com/gdg-x",
+        "logoUrl": "../images/partners/gdg-x.svg"
+    }]
+}, {
     "title": "Organizers",
     "logos": [{
         "name": "GDG Sun Coast",
@@ -12,23 +42,5 @@
         "name": "GDG Space Coast",
         "url": "http://www.gdgspacecoast.org/",
         "logoUrl": "../images/partners/SpaceCoast.svg"
-    }]
-}, {
-    "title": "Sponsors",
-    "logos": [{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    }]
-}, {
-    "title": "General partners",
-    "logos": [{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
     }]
 }]

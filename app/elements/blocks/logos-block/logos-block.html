@@ -47,13 +47,13 @@
       }
 
       .logo-item {
-        margin: 0 10px 10px;
+        margin: 0 20px 10px;
       }
 
       .logo-img {
         @apply(--layout-flex);
-        height: 60px;
-        width: 140px;
+        height: 100px;
+        width: 234px;
       }
     </style>
 
@@ -66,7 +66,7 @@
             <template is="dom-repeat" items="[[block.logos]]" as="logo">
               <a class="logo-item" href="[[logo.url]]" title="[[logo.name]]" target="_blank">
                 <iron-image class="logo-img" src="[[logo.logoUrl]]" height$="{{logo.height}}"
-                            width$="{{logo.width}}" preload fade sizing="contain"></iron-image>
+                            width$="{{logo.width}}" fade sizing="contain"></iron-image>
               </a>
             </template>
           </div>
