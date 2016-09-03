@@ -43,5 +43,14 @@
     "secondaryColor": "#FF9800",
     "image": "/images/posts/tango.png",
     "brief": "One of the exciting aspects of DevFest Florida is the Tango Hackathon! Are you interested in getting hands on experience with Tango? Looking to build crazy, awesome augmented reality apps that would put Pokemon Go to shame? Tango lets you do this. Check out this article on how to participate in the hackathon to get your Tango app noticed and win some pretty cool prizes."
+  },
+  {
+    "id": "venue-announcement",
+    "title": "Venue Confirmation announcement",
+    "posted": "2016-09-01",
+    "primaryColor": "#03A9F4",
+    "secondaryColor": "#03A9F4",
+    "image": "/images/posts/sheraton-night-shot.jpg",
+    "brief": "We've got a venue!."
   }
 ]
