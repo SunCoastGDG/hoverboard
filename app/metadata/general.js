@@ -13,20 +13,20 @@ module.exports = {
   dates: 'November 5th, 2016',
   location: {
     title: 'Orlando, Florida',
-    description: 'We\'re looking forward to being able to share our venue details with you as soon as we can!',
+    description: 'Sheraton Lake Buena Vista',
     short: 'Orlando, Florida',
-    address: '',
+    address: '12205 S Apopka Vineland Rd',
     link: '',
     pointer: {
-      latitude: 28.481399,
-      longitude: -81.5088361,
-      zoom: 10
+      latitude: 28.3872256,
+      longitude: -81.5068749,
+      zoom: 13
     },
     mapCenter: {
-      latitude: 28.5449627,
-      longitude: -81.2617507
+      latitude: 28.3869642,
+      longitude: -81.5051866
     },
-    images: ['/images/backgrounds/orlando_1.jpg', '/images/backgrounds/orlando_2.jpg', '/images/backgrounds/orlando_3.jpg']
+    images: ['/images/backgrounds/orlando_1.jpg', '/images/backgrounds/orlando_2.jpg', '/images/posts/sheraton-night-shot.jpg']
   },
 
   // Contacts
