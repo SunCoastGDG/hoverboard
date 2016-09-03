@@ -18,7 +18,7 @@
       }
 
       .post {
-        @apply(--layout-flex-5);
+        @apply(--layout-flex-3);
       }
 
       .post:not(:first-of-type) {
@@ -65,6 +65,12 @@
           <marked-element markdown="[[_posts.1.brief]]"></marked-element>
           <a data-route$="[[_posts.1.dataRoute]]" href$="[[_posts.1.url]]">Continue reading</a>
         </div>
+        <span class="post-divider"></span>
+        <div class="post">
+          <div class="title">[[_posts.2.title]]</div>
+          <marked-element markdown="[[_posts.2.brief]]"></marked-element>
+          <a data-route$="[[_posts.2.dataRoute]]" href$="[[_posts.2.url]]">Continue reading</a>
+        </div>
       </div>
     </div>
 
@@ -89,7 +95,7 @@
         }
 
         _postsChanged() {
-          let temp = this.posts.slice(0, 2);
+          let temp = this.posts.slice(0, 3);
           for (let i = 0, len = temp.length; i < len; i++) {
             temp[i].url = '{$ baseurl $}/blog/' + temp[i].id;
             temp[i].dataRoute = 'blog/' + temp[i].id;
