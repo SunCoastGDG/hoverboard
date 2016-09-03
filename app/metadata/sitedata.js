@@ -3,7 +3,7 @@ module.exports = {
     counter: '100+',
     caption: 'Attendees'
   }, {
-    counter: 3,
+    counter: 2,
     caption: 'Parallel tracks'
   }, {
     counter: 1,
