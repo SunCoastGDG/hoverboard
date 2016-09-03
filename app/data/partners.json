@@ -33,14 +33,14 @@
     "logos": [{
         "name": "GDG Sun Coast",
         "url": "http://www.gdgsuncoast.org/",
-        "logoUrl": "../images/partners/SunCoast.svg"
+        "logoUrl": "../images/partners/sun-coast.png"
     },{
         "name": "GDG Central Florida",
         "url": "http://www.meetup.com/GDG-Central-Florida/",
-        "logoUrl": "../images/partners/CentralFlorida.svg"
+        "logoUrl": "../images/partners/central-florida.png"
     },{
         "name": "GDG Space Coast",
         "url": "http://www.gdgspacecoast.org/",
-        "logoUrl": "../images/partners/SpaceCoast.svg"
+        "logoUrl": "../images/partners/space-coast.png"
     }]
 }]
