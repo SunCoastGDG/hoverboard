@@ -106,5 +106,30 @@
         "link": "https://github.com/kanawish"
       }
     ]
+  },
+  "5": {
+    "id": 5,
+    "featured": true,
+    "name": "Juniper Belmont",
+    "title": "Developer Advocate",
+    "company": "Vaadin",
+    "country": " United States",
+    "photoUrl": "/images/people/juniper_belmont.jpg",
+    "bio": "June is a genderqueer developer advocate passionate about the open web platform. They love meeting people, talking about their passions, and giving presentations interspersed with bawdy jokes and lavish, mostly true stories. They use they/them pronouns and they can be found @juniperbelmont",
+    "tags": [
+      "progressive web apps", "web", "pwa"
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/juniperbelmont"
+      },
+      {
+        "name": "GitHub",
+        "icon": "github",
+        "link": "https://github.com/juniperbelmont"
+      }
+    ]
   }
 }
