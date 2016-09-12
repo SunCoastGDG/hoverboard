@@ -82,7 +82,7 @@
     "speakers": [3],
     "language": "English",
     "complexity": "Beginner",
-    "tags": ["web"]
+    "tags": ["community", "web"]
   },
   "104": {
     "id": 104,
@@ -91,7 +91,7 @@
     "speakers": [2],
     "language": "English",
     "complexity": "Beginner",
-    "tags": ["android", "ui/ux", "Nougat"]
+    "tags": ["android", "ux"]
   },
   "105": {
     "id": 105,
@@ -100,6 +100,15 @@
     "speakers": [4],
     "language": "English",
     "complexity": "Intermediate",
-    "tags": ["android", "virtual reality", "tango", "daydream"]
+    "tags": ["tango", "android"]
+  },
+  "106": {
+    "id": 106,
+    "title": "Why (not) build Progressive Web Apps?",
+    "description": "Progressive Web Apps (PWAs) are the new big thing in web development, but it’s a mistake to simply endorse or reject them. More than a set of technologies, PWAs are about reframing how we build apps for the web and mobile. They’re about building speed and security and responsiveness right into the app instead of relying on fast devices and connections. They’re about making web apps do everything native apps can do without rewriting your entire codebase for different platforms.<br><br>In this talk you’ll learn how to build progressive web apps and decide why you might or might not want to.",
+    "speakers": [5],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": ["pwas", "web", "polymer"]
   }
 }
