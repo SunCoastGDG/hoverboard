@@ -116,7 +116,7 @@
           if (!session) {
             return null;
           }
-          session.mainTag = session.tags ? session.tags[0] : 'General';
+          session.mainTag = session.tags ? session.tags[0] : 'general';
 
           if (day.tags.indexOf(session.mainTag) < 0) {
             day.tags.push(session.mainTag);

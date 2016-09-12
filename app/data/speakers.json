@@ -68,7 +68,7 @@
     "country": " United States",
     "photoUrl": "/images/people/alyssa_nicoll.jpg",
     "bio": "I am an energetic, über passionate developer. I am a Google Developer Expert, Web Dev at WeaveUp and I have some Front-End and Angular courses on Code School. I love to learn new things and then share them with others. I Scuba Dive and have a toothless dog named 'Gummy'. My name is Alyssa, come talk sometime.",
-    "tags": ["web", "angular", "community"],
+    "tags": ["community", "web", "angular"],
     "socials": [
       {
         "name": "Blog",
@@ -91,9 +91,7 @@
     "country": " United States",
     "photoUrl": "/images/people/etienne_caron.jpg",
     "bio": "Etienne is a software developer who’s worked on all tiers (server, web, mobile and embedded) of large scale software platforms. He is now a Mobile Dev Lead for Shopify, and is part of Google's Developer Expert program.<br><br>Etienne got his start in programming in the mid-'80s obsessing over C64 demos, and went on to organize the NAID 95/96 demoparties. 3D animation, procedural content generation and VR are some of his hobbies, and he loves to introduce other developers to this fascinating field. He also regularly volunteers his time towards mentoring startups, developers and students in the mobile space. As part of the Montreal Android GDG, he organises meet-ups, hackathons, and gives regular talks on Android and VR-related subjects.<br><br>Previously, Etienne worked on projects ranging from high-availability stock trading software platforms, all the way to large scale municipal bike sharing systems (London’s cycle Hire amongst others). He lives in Montreal with his wife and daughter, and speaks French and English fluently.",
-    "tags": [
-      "Android", "Virtual Reality", "Tango", "Daydream"
-    ],
+    "tags": ["tango", "android"],
     "socials": [
       {
         "name": "Twitter",
@@ -115,10 +113,8 @@
     "company": "Vaadin",
     "country": " United States",
     "photoUrl": "/images/people/juniper_belmont.jpg",
-    "bio": "June is a genderqueer developer advocate passionate about the open web platform. They love meeting people, talking about their passions, and giving presentations interspersed with bawdy jokes and lavish, mostly true stories. They use they/them pronouns and they can be found @juniperbelmont",
-    "tags": [
-      "progressive web apps", "web", "pwa"
-    ],
+    "bio": "June is a genderqueer developer advocate passionate about the open web platform. They love meeting people, talking about their passions, and giving presentations interspersed with bawdy jokes and lavish, mostly true stories. They use they/them pronouns and they can be found @juniperbelmont.",
+    "tags": ["pwas", "web"],
     "socials": [
       {
         "name": "Twitter",

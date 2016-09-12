@@ -36,9 +36,9 @@ for further information on custom CSS properties.
   --android: #78C257;
   --web: #2196F3;
   --cloud: #3F51B5;
-  --community: #E91E63;
+  --community: #23c2ff;
   --angular: #E0343D;
-  --polymer: #D81B60;
+  --polymer: #868FC0;
   --dart: #00B4AA;
   --firebase: #FF9800;
   --appengine: #0D47A1;
@@ -56,4 +56,5 @@ for further information on custom CSS properties.
   --material-design: #009688;
   --entrepreneurship: #673AB7;
   --tango: #FF9800;
+  --pwas: #4285F4;
 }

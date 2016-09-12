@@ -82,7 +82,7 @@
     "speakers": [3],
     "language": "English",
     "complexity": "Beginner",
-    "tags": ["web"]
+    "tags": ["community", "web"]
   },
   "104": {
     "id": 104,
@@ -91,7 +91,7 @@
     "speakers": [2],
     "language": "English",
     "complexity": "Beginner",
-    "tags": ["android", "ui/ux", "nougat"]
+    "tags": ["android", "ux"]
   },
   "105": {
     "id": 105,
@@ -100,7 +100,7 @@
     "speakers": [4],
     "language": "English",
     "complexity": "Intermediate",
-    "tags": ["android", "virtual reality", "tango", "daydream"]
+    "tags": ["tango", "android"]
   },
   "106": {
     "id": 106,
@@ -109,6 +109,6 @@
     "speakers": [5],
     "language": "English",
     "complexity": "Intermediate",
-    "tags": ["progressive web apps", "web", "pwa"]
+    "tags": ["pwas", "web", "polymer"]
   }
 }
