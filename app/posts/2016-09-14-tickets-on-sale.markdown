@@ -10,7 +10,7 @@ Early bird tickets are $50 which gets you access to:
 * chance to win prizes,
 * invite to the after party and networking event.
 
-<a href="http://devfestflorida.eventbrite.com/?aff=blog" style="margin-left: 24px;">
+<a href="http://devfestflorida.eventbrite.com/?aff=blog" style="margin-left: 24px;" target="_blank">
   <paper-button class="colorful" raised style="font-weight: 400; margin: 16px 0">Get your tickets here</paper-button>
 </a>
 
