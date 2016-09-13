@@ -39,17 +39,19 @@ module.exports = {
     title: 'Tickets',
     tickets: [{
       name: 'Early Bird',
-      price: 'TBA',
+      price: '50',
       currency: 'USD',
-      info: '*Before September 30',
+      info: '*Before October 4th',
       soldOut: false
-    }, {
-      name: 'Lazy Bird',
-      price: 'TBA',
-      currency: 'USD',
-      info: '*After September 30',
-      soldOut: false
-    }],
+    }
+    // , {
+    //   name: 'Lazy Bird',
+    //   price: 'TBA',
+    //   currency: 'USD',
+    //   info: '*After September 30',
+    //   soldOut: false
+    // }
+  ],
     details: 'Tickets grant access to all speaker sessions, breakouts, code labs, coffee breaks, lunch, and after party. Accommodation and/or travel is NOT included in the ticket price.'
   },
   socialFeed: {
