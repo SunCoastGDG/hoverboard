@@ -66,12 +66,12 @@
 
             .additional-info {
                 margin-top: -5px;
-                font-size: 13px;
+                font-size: 15px;
             }
 
             .details {
                 margin-top: 10px;
-                font-size: 14px;
+                font-size: 16px;
             }
 
             .open-dialog-button {
@@ -84,6 +84,12 @@
 
             paper-dialog .buttons {
                 color: initial;
+            }
+
+            .buy-ticket-button {
+              background: #184b63;
+              font-size: x-large;
+              font-weight: inherit;
             }
 
             @media (min-width: 601px) {
@@ -115,7 +121,7 @@
             </div>
             <span class="details">{$ ticketsBlock.details $}</span>
             <div class="block">
-                <paper-button class="white border-button open-dialog-button" on-tap="openTicketsDialog">Buy a ticket
+                <paper-button class="white border-button open-dialog-button buy-ticket-button" on-tap="openTicketsDialog">Buy a ticket
                 </paper-button>
             </div>
         </div>
@@ -148,7 +154,8 @@
                             value: 'buy-a-ticket'
                         }
                     });
-                    this.$.ticketsDialog.open();
+                    window.open('http://www.eventbrite.com/e/gdg-devfest-florida-2016-tickets-27051458641?ref=ebtnebtckt', '_blank');
+                    // this.$.ticketsDialog.open();
                 }
 
             }
