@@ -4,13 +4,13 @@
     "dateReadable": "November 5",
     "tracks": [
       {
-        "title": "Expo area"
+        "title": "Main Room"
       },
       {
-        "title": "Conference hall"
+        "title": "Room 2"
       },
       {
-        "title": "Community hall"
+        "title": "Hackathon Room"
       }
     ],
     "timeslots": [
@@ -18,111 +18,98 @@
         "startTime": "09:00",
         "endTime": "10:00",
         "sessions": [
-          [
-            1001
-          ]
+          [1001]
         ]
       },
       {
         "startTime": "10:00",
         "endTime": "10:15",
         "sessions": [
-          [
-            1005
-          ]
+          [1005]
         ]
       },
       {
         "startTime": "10:15",
         "endTime": "11:00",
         "sessions": [
-          [
-            1003
-          ]
+          [1004]
         ]
       },
       {
         "startTime": "11:00",
         "endTime": "11:40",
         "sessions": [
-          [
-            1003
-          ]
+          [1003],
+          [1003],
+          [102]
         ]
       },
       {
         "startTime": "11:50",
         "endTime": "12:30",
         "sessions": [
-          [
-            1003
-          ]
+          [106],
+          [105],
+          [102]
         ]
       },
       {
         "startTime": "12:30",
         "endTime": "14:00",
         "sessions": [
-          [
-            1003
-          ]
+          [1002],
+          [1002],
+          [102]
         ]
       },
       {
         "startTime": "14:00",
         "endTime": "14:40",
         "sessions": [
-          [
-            1003
-          ]
+          [103],
+          [104],
+          [102]
         ]
       },
       {
         "startTime": "14:50",
         "endTime": "15:30",
         "sessions": [
-          [
-            1003
-          ]
+          [103],
+          [104],
+          [102]
         ]
       },
       {
         "startTime": "15:30",
         "endTime": "16:00",
         "sessions": [
-          [
-            1003
-          ]
+          [103],
+          [104],
+          [102]
         ]
       },
       {
         "startTime": "16:00",
         "endTime": "16:40",
         "sessions": [
-          [
-            101
-          ],
-          [
-            1003
-          ]
+          [101],
+          [104],
+          [102]
         ]
       },
       {
         "startTime": "16:50",
-        "endTime": "17:30",
+        "endTime": "18:00",
         "sessions": [
-          [
-            1003
-          ]
+          [1007]
         ]
       },
       {
-        "startTime": "22:00",
-        "endTime": "02:00",
+        "startTime": "19:00",
+        "endTime": "22:00",
         "sessions": [
-          [
-            1006
-          ]
+          [1006]
         ]
       }
     ]

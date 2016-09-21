@@ -12,9 +12,9 @@
       :host {
         display: block;
         width: 100%;
-        --paper-input-container-color: var(--mailchimp-color);
-        --paper-input-container-focus-color: var(--default-primary-color);
-        --paper-input-container-input-color: var(--mailchimp-color);
+        --paper-input-container-color: var(--footer-text-color);
+        --paper-input-container-focus-color: var(--accent-color);
+        --paper-input-container-input-color: var(--secondary-text-color);
       }
 
       .mc_embed_signup {
@@ -33,11 +33,12 @@
       paper-input-container,
       .mc-embedded-subscribe-form {
         width: 100%;
+        max-width: 600px;
       }
 
       paper-input-container input,
       paper-input-container label {
-        font-size: 14px !important;
+        font-size: 21px !important;
       }
 
       .subscribe-button {
@@ -52,7 +53,7 @@
             class="mc-embedded-subscribe-form validate" target="_blank" novalidate>
         <div class="mc-field-group">
           <paper-input-container no-label-float>
-            <label>Your email</label>
+            <label>Enter your email</label>
             <input is="iron-input" type="email" name="EMAIL" id="mce-EMAIL" autocomplete="off">
           </paper-input-container>
           <paper-button class="subscribe-button" on-click="submitForm">Subscribe</paper-button>
@@ -62,7 +63,7 @@
           <input type="text" name="[[ name ]]" tabindex="-1">
         </div>
         <div class="mc-submit-group">
-          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" style="display:none">
+          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" style="display: none">
         </div>
       </form>
     </div>

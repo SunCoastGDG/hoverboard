@@ -1,34 +1,62 @@
 [{
+    "title": "Diamond Sponsors",
+    "logos": [{
+        "name": "Google Developers",
+        "url": "https://developers.google.com/",
+        "logoUrl": "../images/partners/google-developers-logo-med-tall.png",
+        "height": 100,
+        "width": 300
+    },{
+        "name": "Traversoft",
+        "url": "https://www.traversoft.com/",
+        "logoUrl": "../images/partners/traversoft.svg",
+        "height": 100,
+        "width": 300
+    }]
+}, {
+    "title": "Gold Sponsors",
+    "logos": [{
+        "name": "Google Cloud",
+        "url": "https://cloud.google.com/",
+        "logoUrl": "../images/partners/google-cloud.png",
+        "height": 100,
+        "width": 200
+    },{
+        "name": "Vaadin",
+        "url": "https://vaadin.com",
+        "logoUrl": "../images/partners/vaadin-logo500.png",
+        "height": 100,
+        "width": 200
+    }]
+},
+ {
+    "title": "Copper Sponsors",
+    "logos": [{
+        "name": "DataPsy",
+        "url": "http://www.datapsy.com/",
+        "logoUrl": "../images/partners/datapsy.png",
+        "height": 100,
+        "width": 150
+    },{
+        "name": "GDG[x]",
+        "url": "https://github.com/gdg-x",
+        "logoUrl": "../images/partners/gdg-x.svg",
+        "height": 100,
+        "width": 150
+    }]
+}, {
     "title": "Organizers",
     "logos": [{
         "name": "GDG Sun Coast",
         "url": "http://www.gdgsuncoast.org/",
-        "logoUrl": "../images/partners/SunCoast.svg"
+        "logoUrl": "../images/partners/sun-coast.png"
     },{
         "name": "GDG Central Florida",
         "url": "http://www.meetup.com/GDG-Central-Florida/",
-        "logoUrl": "../images/partners/CentralFlorida.svg"
+        "logoUrl": "../images/partners/central-florida.png"
     },{
         "name": "GDG Space Coast",
         "url": "http://www.gdgspacecoast.org/",
-        "logoUrl": "../images/partners/SpaceCoast.svg"
-    }]
-}, {
-    "title": "Sponsors",
-    "logos": [{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    }]
-}, {
-    "title": "General partners",
-    "logos": [{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
+        "logoUrl": "../images/partners/space-coast.png"
     }]
 }]

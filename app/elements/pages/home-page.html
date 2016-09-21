@@ -8,6 +8,7 @@
 <link rel="import" href="../blocks/featured-videos/featured-videos.html">
 <link rel="import" href="../blocks/call-to-action/call-to-action.html">
 <link rel="import" href="../blocks/tickets-block/tickets-block.html">
+<link rel="import" href="../blocks/sign-up-block/sign-up-block.html">
 <link rel="import" href="../blocks/latest-posts/latest-posts.html">
 <link rel="import" href="../blocks/footer-block/footer-block.html">
 <link rel="import" href="../blocks/photo-block/photo-block.html">
@@ -21,10 +22,10 @@
 
     <statistics-block cascaded></statistics-block>
     <featured-people people="{{people}}" cascaded></featured-people>
-    <featured-videos videos="{{videos}}" cascaded></featured-videos>
     <call-to-action cascaded></call-to-action>
     <photo-block photos='{$ galleryBlock.photos | dump $}' cascaded></photo-block>
     <tickets-block cascaded></tickets-block>
+    <!-- <sign-up-block cascaded></sign-up-block> -->
     <latest-posts posts="{{posts}}" cascaded></latest-posts>
     <social-feed source="{$ socialFeed.source $}" cascaded></social-feed>
     <map-block cascaded></map-block>

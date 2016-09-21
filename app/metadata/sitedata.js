@@ -1,19 +1,19 @@
 module.exports = {
   statistics: [{
-    counter: 100,
+    counter: '100+',
     caption: 'Attendees'
   }, {
-    counter: 3,
+    counter: 2,
     caption: 'Parallel tracks'
   }, {
-    counter: '2+',
-    caption: 'Code Labs'
+    counter: 1,
+    caption: 'Tango Hackathon'
   }, {
-    counter: '20+',
+    counter: '10+',
     caption: 'Sessions'
   }],
   callToAction: {
-    text: 'GDG DevFest Sun Coast 2015',
+    text: 'Android DevFest Space Coast 2014 - Photos',
     buttonText: 'See how it was',
     video: {
       id: 't95z_HLMTmM',
@@ -21,28 +21,37 @@ module.exports = {
     }
   },
   galleryBlock: {
-    title: 'GDG DevFest Sun Coast 2015 - Photos',
+    title: 'Android DevFest Space Coast 2014 - Photos',
     photos: {
-      big: '../images/backgrounds/2015_1.jpg',
-      small: ['../images/backgrounds/2015_2.jpg', '../images/backgrounds/2015_3.jpg']
+      big: '../images/backgrounds/AndroidDevFestSpaceCoast2014_AndroidTV.jpg',
+      small: [
+        '../images/backgrounds/AndroidDevFestSpaceCoast2014_Design-Winners.jpg',
+        '../images/backgrounds/AndroidDevFestSpaceCoast2014_Auditorium.jpg'
+      ]
     },
-    albumUrl: 'https://plus.google.com/photos/103948420531198832035/albums/6215552964698512225'
+    albumUrl: 'https://goo.gl/photos/e4FPjXYXJYUh9YqSA'
+  },
+  signUpBlock: {
+    title: 'Tickets on sale soon',
+    details: 'Tickets will be going on sale soon. Sign up to be the first to get notified.'
   },
   ticketsBlock: {
     title: 'Tickets',
     tickets: [{
       name: 'Early Bird',
-      price: 30,
+      price: '50',
       currency: 'USD',
-      info: '*Before September 30',
+      info: '*Before October 4th',
       soldOut: false
-    }, {
-      name: 'Lazy Bird',
-      price: 45,
-      currency: 'USD',
-      info: '*After September 30',
-      soldOut: false
-    }],
+    }
+    // , {
+    //   name: 'Lazy Bird',
+    //   price: 'TBA',
+    //   currency: 'USD',
+    //   info: '*After September 30',
+    //   soldOut: false
+    // }
+  ],
     details: 'Tickets grant access to all speaker sessions, breakouts, code labs, coffee breaks, lunch, and after party. Accommodation and/or travel is NOT included in the ticket price.'
   },
   socialFeed: {

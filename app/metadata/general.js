@@ -1,7 +1,7 @@
 module.exports = {
   title: 'DevFest Florida 2016',
   description: 'The inaugural DevFest Florida event is going to be the biggest Google tech conference in Central Florida. GDG Space Coast, GDG Central Florida, and GDG Sun Coast are collaborating to put together great speakers, code labs, and a fun environment to learn more about Web and Android technologies.',
-  keywords: 'event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, cloud',
+  keywords: 'event, gdg, gde, devfest, google, firebase, android, angularjs, chrome, polymer, developers, cloud, web',
   charset: 'utf-8',
   lang: 'en',
   // Add to homescreen for Chrome on Android
@@ -10,41 +10,41 @@ module.exports = {
   appleMobileWebAppTitle: 'DevFest Florida 2016',
 
   // Event details
-  dates: 'November 05, 2016',
+  dates: 'November 5th, 2016',
   location: {
     title: 'Orlando, Florida',
-    description: 'We\'re looking forward to being able to share our venue details with you as soon as we can!',
+    description: 'Sheraton Lake Buena Vista',
     short: 'Orlando, Florida',
-    address: '',
+    address: '12205 S Apopka Vineland Rd',
     link: '',
     pointer: {
-      latitude: 28.481399,
-      longitude: -81.5088361,
-      zoom: 10
+      latitude: 28.3872256,
+      longitude: -81.5068749,
+      zoom: 13
     },
     mapCenter: {
-      latitude: 28.5449627,
-      longitude: -81.2617507
+      latitude: 28.3869642,
+      longitude: -81.5051866
     },
-    images: ['/images/backgrounds/orlando_1.jpg', '/images/backgrounds/orlando_2.jpg', '/images/backgrounds/orlando_3.jpg']
+    images: ['/images/backgrounds/orlando_1.jpg', '/images/backgrounds/orlando_2.jpg', '/images/posts/sheraton-night-shot.jpg']
   },
 
   // Contacts
   social: {
     twitter: {
-      nickname: 'GDGSunCoast',
-      url: 'https://twitter.com/GDGSunCoast'
+      nickname: 'DevFestFlorida',
+      url: 'https://twitter.com/DevFestFlorida'
     },
     gplus: {
-      nickname: '+ScgdgOrg',
-      url: 'https://plus.google.com/+ScgdgOrg'
+      nickname: '+DevFestFloridaOrg',
+      url: 'https://plus.google.com/+DevFestFloridaOrg'
     },
     facebook: {
-      nickname: 'GDG-Space-Coast',
-      url: 'https://www.facebook.com/GDG-Space-Coast-859933177354627'
+      nickname: 'devfestflorida',
+      url: 'https://www.facebook.com/devfestflorida'
     }
   },
-  hashtag: 'DevfestFL',
+  hashtag: 'DevFestFL',
   email: 'organizers@devfestflorida.org',
   organizer: {
     name: 'GDG Lviv',

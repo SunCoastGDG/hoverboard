@@ -11,13 +11,17 @@ module.exports = {
           },
           {
             text: 'Code of Conduct',
-            url: '/code-of-conduct'
+            url: '/blog/code-of-conduct'
           }
         ]
       },
       {
         title: 'For partners',
-        links: []
+        links: [{
+          text: 'Partnership Proposition',
+          url: '/assets/DevFestFloridaPartnershipProposal.pdf',
+          newTab: true
+        }]
       }
     ],
     contactBlock: {
