@@ -28,9 +28,16 @@
         margin-bottom: 0 !important;
       }
 
+      .open-dialog-button {
+        color: var(--accent-color);
+        font-size: 18px;
+        font-weight: 600;
+      }
+
       @media (max-width: 599px) {
         .open-dialog-button {
           margin-top: 10px;
+          color: var(--accent-color);
         }
       }
 
@@ -47,7 +54,9 @@
 
     <div class="container container-narrow">
       <h4 class="heading">[[localize(app.data.callToAction.videoTitle)]]</h4>
-      <paper-button class="open-dialog-button" on-tap="playVideo">[[localize('action')]]</paper-button>
+      <a href$="[[app.data.gallery.albumUrl]]" target="_blank">
+        <paper-button class="open-dialog-button">[[localize('action')]]</paper-button>
+      </a>
     </div>
 
   </template>
