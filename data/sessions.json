@@ -1,481 +1,206 @@
 {
-  "140": {
-    "id": 140,
-    "title": "TBD",
-    "description": "TBD",
-    "language": "English"
-  },
-  "139": {
-    "id": 139,
-    "title": "Keynote",
-    "description": "",
-    "language": "English"
-  },
-  "138": {
-    "id": 138,
-    "title": "Conference closing and contest winners announcements",
-    "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
-    "image": "/images/backgrounds/closing.jpg"
-  },
-  "137": {
-    "id": 137,
-    "title": "Afterparty & Networking",
-    "description": "Afterparty is a great time to have some fun and meet new people",
-    "image": "/images/backgrounds/party.jpg"
-  },
-  "136": {
-    "id": 136,
-    "title": "GDG DevFest Ukraine 2016 Opening",
-    "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
-    "language": "English",
-    "image": "/images/backgrounds/opening.jpg"
-  },
-  "135": {
-    "id": 135,
-    "title": "Morning coffee",
-    "description": "Coffeeeeeee!",
-    "image": "/images/backgrounds/morning.jpg"
-  },
-  "134": {
-    "id": 134,
-    "title": "Coffee break",
-    "description": "Coffeeeeeee!",
-    "image": "/images/backgrounds/coffee-break.jpg"
-  },
-  "133": {
-    "id": 133,
-    "title": "Lunch",
-    "description": "Foooooooood!",
-    "image": "/images/backgrounds/lunch.jpg"
-  },
-  "132": {
-    "id": 132,
-    "title": "Registration & morning Coffee",
-    "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+  "1001": {
+    "id": 1001,
+    "title": "Registration",
+    "description": "Get your badge and then enjoy networking with great people!",
+    "tags": ["general"],
+    "room": "General",
     "image": "/images/backgrounds/registration.jpg"
   },
-  "131": {
-    "id": 131,
-    "title": "Deal with it: Android DataBinding explained",
-    "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
-    "speakers": [
-      27
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Android"
-    ],
-    "presentation": "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained"
+  "1002": {
+    "id": 1002,
+    "title": "Lunch",
+    "description": "Lunch break",
+    "tags": ["general"],
+    "room": "General",
+    "image": "/images/backgrounds/lunch.jpg"
   },
-  "130": {
-    "id": 130,
-    "title": "Designing an Android Wear Application",
-    "description": "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
-    "speakers": [
-      26
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Android"
-    ]
+  "1003": {
+    "id": 1003,
+    "title": "Break",
+    "description": "Break",
+    "tags": ["general"],
+    "room": "General",
+    "image": "/images/backgrounds/coffee-break.jpg"
   },
-  "129": {
-    "id": 129,
-    "title": "Accessibility on Android",
-    "description": "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
-    "speakers": [
-      26
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Android"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android"
-  },
-  "128": {
-    "id": 128,
-    "title": "Android Wear 2.0: Great Changes Upcoming this Fall",
-    "description": "Google announced Android Wear 2.0 become available this Fall. This major update brings some revolutionary changes in platform, that should change our approaches in developing wearable apps, including freedom of BLE tethering, system support for complications and activity recognition by GoogleFit, developed mainly for Android Wear 2.0. We will talk deeper about these new features and look at some ways to implement them in the code.",
-    "speakers": [
-      25
-    ],
+  "1005": {
+    "id": 1005,
+    "title": "GDG DevFest Florida 2016 Opening",
+    "description": "Official start of the conference. Greetings from the organizers, sponsors, and partners.",
     "language": "English",
     "complexity": "Beginner",
-    "tags": [
-      "Android"
-    ]
+    "tags": ["general"],
+    "room": "General",
+    "image": "/images/backgrounds/opening.jpg"
   },
-  "127": {
-    "id": 127,
-    "title": "ExoPlayer: Media playback without pain (almost...)",
-    "description": "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
-    "speakers": [
-      24
-    ],
-    "language": "Ukrainian",
-    "complexity": "Intermediate",
-    "tags": [
-      "Android"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot"
+  "1006": {
+    "id": 1006,
+    "room": "General",
+    "title": "After party and networking by NativeScript",
+    "description": "The after party is a great place to have some fun and meet new people. We'll be meeting nearby in the Sea Dog Brewing Company's indoor Pub. Thanks to NativeScript's generous sponsorship, we'll be providing free appetizers for attendees! The brewery has a wide selection of food, beer, wine, and cocktails for you to purchase, if desired.<br/><br/><b>Location</b>: <a href='http://www.seadogbrewing.com/orlandoLOC.php' target='_blank'>Sea Dog Brewing Co.</a>, <a href='https://goo.gl/maps/yC1jxf79qZG2' target='_blank'>8496 Palm Parkway Orlando, FL 32836</a><br/><br/>Don't forget to bring your badge.",
+    "track": {
+      "title": "Sea Dog Brewing Co."
+    },
+    "tags": ["general"],
+    "image": "/images/backgrounds/party.jpg"
   },
-  "126": {
-    "id": 126,
-    "title": "Android hacking for dummies: \u2018if\u2019 operator demolytion",
-    "description": "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
-    "speakers": [
-      23
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Android"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion"
-  },
-  "125": {
-    "id": 125,
-    "title": "Kubernetes in a real world",
-    "description": "TBD",
-    "speakers": [
-      22
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Cloud"
-    ]
-  },
-  "124": {
-    "id": 124,
-    "title": "Continues Integration in Android",
-    "description": "You are tired of building every patch for your QA ? Still deploying to google play manually ? You still think that build server is something that you don't need ? Than I will try to show you how you can make life of your team easier with CI.",
-    "speakers": [
-      21
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Android"
-    ]
-  },
-  "123": {
-    "id": 123,
-    "title": "TBD",
-    "description": "TBD",
-    "speakers": [
-      20
-    ],
+  "1007": {
+    "id": 1007,
+    "room": "General",
+    "title": "Conference closing, awards, and raffles",
+    "description": "Make sure you don't miss the closing ceremony! All gifts from our sponsors and partners will find their owners during this session.",
     "language": "English",
     "complexity": "Beginner",
-    "tags": [
-      "Web"
-    ]
-  },
-  "122": {
-    "id": 122,
-    "title": "Firebase + Kotlin + RxJava + MVP: Practical Tips",
-    "description": "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP.",
-    "speakers": [
-      19
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Android"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/david-vavra-firebase-plus-kotlin-plus-rxjava-plus-mvp-practical-tips"
-  },
-  "121": {
-    "id": 121,
-    "title": "Offline-first progressive web apps",
-    "description": "Using service workers and other modern progressive web apps capabilities we can update our web applications to be offline-fires. In this session we'll show how to easily convert your applications be usable without the internet connection.",
-    "speakers": [
-      18
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Web"
-    ]
-  },
-  "120": {
-    "id": 120,
-    "title": "Progressive web apps - prepare your web for 2017",
-    "description": "\"Remember back when AJAX completely changed what was possible in the desktop web? Progressive web apps are that same fundamental shift for the mobile web.\" said Rahul Row-Chowdhury (Google\u2019s product lead for chrome and the web platform) on stage at Google I/O 2016. - Progressive web apps use service workers, app shell, push notifications, RAIL and other capabilities to deliver an app-like user experience.",
-    "speakers": [
-      18
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Web"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/jakub-skvara-progressive-web-apps-prepare-your-web-for-2017"
-  },
-  "119": {
-    "id": 119,
-    "title": "Hands-on with UI testing for Android developers",
-    "description": "Writing Android apps is usually fun because you are actually building something. But what about writing tests? Boring stuff. Errr, UI tests? I am a developer!\n\nIn this talk we will take a look at options for UI tests on Android, why you should write them and how they help you with your app development workflow. No more untested apps!",
-    "speakers": [
-      17
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Android"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/jana-moudra-hands-on-with-ui-testing-for-android-developers"
-  },
-  "118": {
-    "id": 118,
-    "title": "Kotlin + Android",
-    "description": "TBD",
-    "speakers": [
-      16
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Android"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/dmytro-danylyk-kotlin-plus-android"
-  },
-  "117": {
-    "id": 117,
-    "title": "Building data pipelines: from simple to more advanced - hands-on experience",
-    "description": "Data is becoming one of the main decision-makers in an organisation. The more data we have the more challenges we face every day. Every decision we make will have long-term implications. In the talk we will go through different approaches to the data pipelines: from a simple in-house built, with comparison to open source solutions based on Apache stack(Apache Kafka, Apache Samza, Spark) and finally hosted auto-scaling solutions based Amazon(S3, Kinesis, Lambda, EMR) or Google(Pub/Sub, Dataflow, BigQuery). The talk covers the main aspects of data collecting processes altogether with further implications for data processing, highlighting appropriate solutions and architectures for the particular use-cases. ",
-    "speakers": [
-      15
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Cloud"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/sergii-khomenko-building-data-pipelines-from-simple-to-more-advanced-hands-on-experience"
-  },
-  "116": {
-    "id": 116,
-    "title": "On Polymer and smileys... or Polysmileys",
-    "description": "One of my favourite things about the web are ASCII smileys. They're sweet, fun and simply make the web a better place. How could anyone not like them \u00af(\u30c4)/\u00af?\n\nThis talk is an overdose of smileys, because they're the perfect excuse to get started with Polymer. Polymer is a library built on top of the Web Components standards that helps developers create reusable components for the modern web. And since I know that everybody has been wondering how one could take over the world by creating a suite of Polymer animated emoticon components, we're going to do exactly that.",
-    "speakers": [
-      14
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Web"
-    ],
-    "presentation":"http://carmenpopoviciu.github.io/on-polymer-and-smileys/"
-  },
-  "115": {
-    "id": 115,
-    "title": "Android tool-chain and run-time improvements in N",
-    "description": "Upcoming Android N release will bring some interesting changes to both Android run-time and toolchain. Let's talk about JIT, AOT, hybrid JIT/AOT, Jack, Jill and other acronyms and codenames ;-) In this presentation we'll see how many awesome tricks are needed to make our apps start fast and run smoothly on modern Android devices. Hopefully we'll also answer the most important question -- what's next for Android after Java.",
-    "speakers": [
-      13
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Android"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/aleksander-piotrowski-android-tool-chain-and-run-time-improvements-in-n"
-  },
-  "114": {
-    "id": 114,
-    "title": "I\u2019ve been doing some syncing\u2026",
-    "description": "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful\u2014and underrated\u2014account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
-    "speakers": [
-      12
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Android"
-    ]
-  },
-  "113": {
-    "id": 113,
-    "title": "Microservices in Google App Engine",
-    "description": "Microservices is coming with a certain workload and constraints. Let's try to see how Google Cloud Platform and App Engine can help the overall microservices implementation.",
-    "speakers": [
-      11
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Cloud"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/jean-baptiste-clion-microservices-in-google-app-engine"
-  },
-  "112": {
-    "id": 112,
-    "title": "Building web apps in 2016",
-    "description": "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
-    "speakers": [
-      10
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Web"
-    ]
-  },
-  "111": {
-    "id": 111,
-    "title": "Building modular architecture apps with Dagger 2",
-    "description": "It's beauty, it's handy, it's fast, it's easy - all about Dagger 2",
-    "speakers": [
-      9
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Android"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/kseniia-shumelchyk-building-modular-architecture-apps-with-dagger-2"
-  },
-  "110": {
-    "id": 110,
-    "title": "The ultimate guide to MVP pattern on Android",
-    "description": "There's a lot of hype around MVP pattern in the Android world. Now it's time for concretes. During his presentation Mateusz will tell you how IG divided responsibilities between pattern's different components, how they tied Presenters' and Views' lifecycles and what they did to make it all testable. If you'd love to make your Fragments' and Activities' code simpler and increase your coverage, but you're confused how to glue it all together - don't miss Mateusz's talk.",
-    "speakers": [
-      8
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Android"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/mateusz-herych-the-ultimate-guide-to-mvp-pattern-on-android"
-  },
-  "109": {
-    "id": 109,
-    "title": "How much money Firebase can save you",
-    "description": "TBD",
-    "speakers": [
-      7
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Cloud"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/jozef-vodicka-how-much-money-firebase-can-save-you"
-  },
-  "108": {
-    "id": 108,
-    "title": "New Data Architecture in Angular 2",
-    "description": "Angular 2 introduces a new Data Architecture based on Reactive Programming using RxJS 5. We are really excited to see the new approach using Observable sequences aka Observables. We will cover a basic introduction of Angular 2 followed by RxJS 5 and the new HTTP API covering some basic use cases.",
-    "speakers": [
-      6
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Web"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/gerard-sans-new-data-architecture-in-angular-2"
-  },
-  "107": {
-    "id": 107,
-    "title": "Introduction to Progressive Web Apps in Angular 2",
-    "description": "There's been much discussion about Progressive Web Apps. They're still a relatively new model. In this talk, I'll summarise few options and techniques for getting started with your own Progressive Web App",
-    "speakers": [
-      6
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Web"
-    ]
-  },
-  "106": {
-    "id": 106,
-    "title": "Fuelio. Success story",
-    "description": "Fuelio. Success story (I'll write more info later)",
-    "speakers": [
-      5
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Android"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story"
-  },
-  "105": {
-    "id": 105,
-    "title": "Intro to TensorFlow",
-    "description": "TBD",
-    "speakers": [
-      4
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Cloud"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow"
-  },
-  "104": {
-    "id": 104,
-    "title": "The Physical Web: Context is King!",
-    "description": "It's no longer just about digitizing our environment. It\u2019s rather about pervasive and ubiquitous computing. Almost all everyday things will turn into connected devices soon. This \u201cInternet of Things\u201d will allow the Web to be physically tangible. But what is the value, and how can one prevent IoT applications which just seem to be only more expensive and complicated than conventional solutions. Sascha will discuss the purpose and guide you through this complex topic showing inspiring solutions, tips from practice, and code samples in a variety of technologies from simple Bluetooth Eddystone Beacons to more sophisticated IoT platforms like Eclipse SmartHome.",
-    "speakers": [
-      3
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Web"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/sascha-wolter-the-physical-web-context-is-king"
-  },
-  "103": {
-    "id": 103,
-    "title": "Knock knock! Who's there? Doze.",
-    "description": "Doze mode is just around the corner. \nIntroduced in Marshmallow, as the shy guy that was allowed to step in only when your device went to sleep. ZzzZzzzz\nWith the new N release, Doze mode becomes the rockstar. He rushes into the room with a big shabang by shooting all background services and network requests that forgot to get away. \nHe should no longer be shy. He just shoots and dances on bones of your scheduled alarms, while you wonder why this particular task is no longer running.\nWith the new Doze mode, you require to adapt your app architecture to the new reality.\nOn this talk, we will learn how to survive Doze mode using Job Scheduler, Content Provider and stay in one piece.",
-    "speakers": [
-      2
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Android"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze"
-  },
-  "102": {
-    "id": 102,
-    "title": "Hands-on gRPC experience building your own multiplayer game client",
-    "description": "Do you remember the game Simon says from the 80s? I don\u2019t know about you, but I know many that spent hours trying to press those specific sequences of red, green, blue and yellow buttons in the correct order. But why play on your own? We\u2019ve implemented a gRPC server that allows you to play Simon with other players over the internet!\n\nIn this workshop we will dive into the toolset and libraries to build your very own Simon Says client for this server. We will have a message description in Protocol Buffers format and some stub code in several languages ready for you to play with. The goal for this workshop is for you to have a working client that you can use to play (and beat!) other attendees of the workshop.",
-    "speakers": [
-      1
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Cloud"
-    ]
+    "tags": ["general"],
+    "image": "/images/backgrounds/closing.jpg"
   },
   "101": {
     "id": 101,
-    "title": "Windows and .NET on Google Cloud Platform ",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
-    "speakers": [
-      1
-    ],
+    "room": "Web & Cloud",
+    "title": "Build your MVP with Angular 2, Firebase, Polymer",
+    "description": "If you need to build a MVP for an idea or startup, then you need to have tools that work right now and ultra-productive. Angular 2 provides a great starting point for this, but you still need to handle Authentication, database, back-end servers, and quality UI components. AngularFire2 makes the Authentication easy. It provides a real-time, managed database. This means no servers to setup! Angular2-Polymer gives you easy access to the huge library of standards-based Polymer Web Components. This includes Material Design components, Flexbox Layouts, data grids, and Google components like Google Maps.",
+    "speakers": [1],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": [
+      "angular",
+      "firebase",
+      "material-design",
+      "polymer",
+      "entrepreneurship"
+    ]
+  },
+  "102": {
+    "id": 102,
+    "room": "Tango Hackathon",
+    "title": "Tango Hackathon",
+    "description": "Join Hackathon teams and build Virtual Reality or Augmented Reality apps on real Tango devices.",
+    "speakers": [],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": [
+      "tango",
+      "android"
+    ]
+  },
+  "103": {
+    "id": 103,
+    "room": "Web & Cloud",
+    "title": "Keynote: Innovating is not about technology, but psychology",
+    "description": "“It is the recognition that well-read is not a destination, there is nowhere to get to and if there was somewhere to get to, you would need a thousand years to even think about getting there.” -Linda Holmes<br><br>Many people strive to be “well-read” as developers or designers, they want to know & do it all. But why? All in the name of being “well-read”? All just to say “Yeah — I’ve done that”?<br><br>Why do we do what we do? Why do we try so hard? Why are we here, paying to be here, to listen to people talk? Maybe because we’re life long learners - we want to learn new things? Commune with our own kind? But why? Come examine our motives as developers, the pitfalls we fall into, and the cost of being great.",
+    "speakers": [3],
     "language": "English",
     "complexity": "Beginner",
-    "tags": [
-      "Cloud"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform"
+    "tags": ["community", "web"]
+  },
+  "104": {
+    "id": 104,
+    "room": "Android",
+    "title": "Multi-Window and Your App",
+    "description": "Vendors large and small have offered multiple windows in their Android devices. Now, with Android 7.0, we are getting multiple windows in standard Android... and in the new Android-on-ChromeOS environment. This class will explore how to support multi-window modes in your Android applications, with particular emphasis on the split-screen mode for phones and tablets. We will look at how your app will behave in these environments without any changes and how you can make minor tweaks to improve your results. We will also examine what quirks will be seen with multi-window mode and what sorts of UX decisions you will need to make as a result. Finally, we will see how you can start testing your app in these modes, to begin making tactical changes and run experiments for longer-term strategic choices.",
+    "speakers": [2],
+    "language": "English",
+    "complexity": "Beginner",
+    "tags": ["android", "ux"]
+  },
+  "105": {
+    "id": 105,
+    "room": "Android",
+    "title": "Developing Apps for Daydream and Tango",
+    "description": "Starting an App with a Virtual or Augmented reality component is a bit daunting for most. When starting out, frameworks like Unity3D or Unreal Engine simplify a great many things.<br><br>But, from an Android developer perspective, you need to forget all about the nice APIs and libraries you're used to. You'll need to shoehorn your business logic in frameworks that are designed to build games first, not apps -- not a great proposition.<br><br>Let's explore the path less traveled together! In this session, we'll see how you can build VR and AR applications, in Java and Android Studio, thanks to Google's Daydream and Tango Java SDKs, plus a few helpful 3D graphics libraries.",
+    "speakers": [4],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": ["tango", "android"]
+  },
+  "106": {
+    "id": 106,
+    "room": "Web & Cloud",
+    "title": "Why (not) build Progressive Web Apps?",
+    "description": "Progressive Web Apps (PWAs) are the new big thing in web development, but it’s a mistake to simply endorse or reject them. More than a set of technologies, PWAs are about reframing how we build apps for the web and mobile. They’re about building speed and security and responsiveness right into the app instead of relying on fast devices and connections. They’re about making web apps do everything native apps can do without rewriting your entire codebase for different platforms.<br><br>In this talk you’ll learn how to build progressive web apps and decide why you might or might not want to.",
+    "speakers": [5],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": ["pwas", "web", "polymer"]
+  },
+  "107": {
+    "id": 107,
+    "room": "Web & Cloud",
+    "title": "Knowing people's emotions can lead to better user experience",
+    "description": "Use Google Cloud Vision API on Clover's AOSP platform to create a custom experience for customers. Have merchants turn frowns upside down with a little treat when the Google Cloud Vision API on Clover detects a sad face.",
+    "speakers": [6],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": ["cloud", "android"]
+  },
+  "108": {
+    "id": 108,
+    "room": "Web & Cloud",
+    "title": "Angular 2 - Removing the Chaos",
+    "description": "There are so many things that need considered, transpiling, minifying, module imports, bundling, dev environment, production releases, code consistency, testing and so many others can detract from actual development. What if we could throw all of that away? Complexities in modern web development have increased dramatically over the past few years that can detract from actual development, to alleviate this we need to rely on tools to get things done. Join me in creating an Angular app by setting aside all of these concerns and focus on adding features that users care about.",
+    "speakers": [7],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": ["angular", "web"]
+  },
+  "109": {
+    "id": 109,
+    "room": "Web & Cloud",
+    "title": "Intro to NativeScript",
+    "description": "Build truly native apps using Angular2 and NativeScript. We will walk though the basics of Angular 2 using NativeScript Layouts, routing, and a basic api call to use real data.",
+    "speakers": [8],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": ["angular", "web"]
+  },
+  "110": {
+    "id": 110,
+    "room": "Web & Cloud",
+    "title": "Scaling Beyond SQL With Bigtable",
+    "description": "In a world with a seemingly infinite amount of data, there way we store and retrieve data is becoming of ever increasing importance. Enter: Bigtable. From serving applications such as Google Search, Maps, and Analytics — Google's Bigtable has crafted a pathway for NoSQL database design and influenced technology such as Hadoop and Cassandra. This new cohort of non-relational databases are making strides in scalability, speed, and concurrency. No SQL? Is that even a database? Come learn about what Bigtable is, how it works, and why you might want to consider trying out a NoSQL database.",
+    "speakers": [9],
+    "language": "English",
+    "complexity": "Beginner",
+    "tags": ["cloud", "web"]
+  },
+  "111": {
+    "id": 111,
+    "room": "Web & Cloud",
+    "title": "Staying Relevant For All Your Years",
+    "description": "Innovation never stops. Technology continually evolves, improves and changes. If you're reading this, you love tech, and you love learning. That's a good thing. This talk provides inspiration on how to stay relevant through innovations certain to influence your career by looking at the past and then future technology and diversity trends. Imagine yourself in the not-so-distant future when augmented reality is the norm, and no typing or touching is required to communicate with a computer. What will your skill set look like then?",
+    "speakers": [10],
+    "language": "English",
+    "complexity": "Beginner",
+    "tags": ["entrepreneurship"]
+  },
+  "112": {
+    "id": 112,
+    "room": "Android",
+    "title": "Designing as a Developer",
+    "description": "As a developer or a startup with a small team you may not have a dedicated UX designer on staff. However, investing in good UI/UX design, testing your product with users, and following good design standards, adds so much value to your product. You don't need to be a designer to create good user experiences in your product. This talk will help developers create unique user experiences, cover wireframing and prototyping tools, design inspiration resources such as Mobile-Patterns.com, and the importance of knowing your user.",
+    "speakers": [11],
+    "language": "English",
+    "complexity": "Beginner",
+    "tags": ["android", "ux"]
+  },
+  "113": {
+    "id": 113,
+    "room": "Android",
+    "title": "Writing Testable Android Applications",
+    "description": "For a long time, the support for testing on Android has been lacking. More recently, with support for unit testing (introduced in Android Studio 1.2) and Espresso, the tooling for testing Android applications has improved. Although we now have good testing tools available, many Android apps are structured in a way that makes it difficult for those apps to take advantage of these newer testing tools. This talk is about how to use dependency injection (with Dagger), MVP, and build flavors to write testable Android applications that make the most of Espresso and Android Studio's unit testing support.",
+    "speakers": [12],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": ["android"]
+  },
+  "115": {
+    "id": 115,
+    "room": "Android",
+    "title": "Playing With Fire(base)",
+    "description": "Firebase is a feature-rich platform that provides Android apps with a powerful foundation for acquiring users and keeping them engaged. For a recent news app I developed, I employed Cloud Messaging, Remote Config, Dynamic Links, and App Indexing. In this talk, I'll describe practical examples of how I used these features, as well as a few places where I nearly got burned. I'll explain how I: <ul><li>Implemented custom push notifications using Cloud Messaging</li><li>Defined simple A/B tests with Remote Config</li><li>Acquired users with Dynamic Links in app banners</li><li>Used App Indexing to get our app into search results</li><li>Recorded events and user properties to measure performance in Analytics</li></ul>",
+    "speakers": [13],
+    "language": "English",
+    "complexity": "Beginner",
+    "tags": ["android", "firebase"]
   }
 }

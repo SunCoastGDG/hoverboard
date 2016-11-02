@@ -1,9 +1,9 @@
 {
   "firebase": {
-    "name": "hoverboard-dev",
-    "domain": "lviv-app.firebaseapp.com",
-    "database": "https://lviv-app.firebaseio.com",
-    "api": "AIzaSyDL3yRuBdVNSD-hmNJ1t1jpC-NM6XDrPF0",
+    "name": "devfestflorida",
+    "domain": "devfestflorida.firebaseapp.com",
+    "database": "https://devfestflorida.firebaseio.com",
+    "api": "AIzaSyDhlDqyb5mOtdHMsrQpMuYkbIegvj030Q4",
     "userSessionsPath": "/userSessions"
   },
   "pages": {
@@ -14,7 +14,7 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
+          "title": "GDG DevFest Florida 2016",
           "youtubeId": "TdpbgRgz6eE",
           "text": "See how it was in 2016"
         },
@@ -80,21 +80,21 @@
       "permalink": "/team/"
     }
   ],
-  "url": "https://hoverboard.firebaseapp.com/",
+  "url": "https://devfestflorida.org",
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "//firebaseapp.us13.list-manage.com/subscribe/post?u=3f4db9aefbaccd123ad402ffd&amp;id=74fc03d0fa",
+    "name": "GDG DevFest Florida 2016"
   },
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "disqusShortName": "hoverboard-gdg-x",
+  "partnershipProposition": "/assets/DevFestFloridaPartnershipProposal.pdf",
+  "disqusShortName": "devfestflorida",
   "languages": [
     {
       "name": "English",
       "key": "en"
     },
     {
-      "name": "Українська",
-      "key": "uk"
+      "name": "Spanish",
+      "key": "es"
     }
   ],
   "footerBlocks": [
@@ -113,21 +113,6 @@
           "text": "google-developers",
           "url": "https://developers.google.com/",
           "newTab": true
-        },
-        {
-          "text": "df-13",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-14",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "df-15",
-          "url": "http://devfest.gdg.org.ua/2015/",
-          "newTab": true
         }
       ]
     },
@@ -136,12 +121,7 @@
       "links": [
         {
           "text": "partnership-proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "media-kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "/assets/DevFestFloridaPartnershipProposal.pdf",
           "newTab": true
         }
       ]
@@ -150,27 +130,18 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "organizers@devfestflorida.org",
+        "url": "mailto:organizers@devfestflorida.org"
       }
     ]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
+    "url": "https://devfestflorida.eventbrite.com/?aff=website",
     "elements": [
       {
-        "name": "student-ticket",
-        "price": 500,
-        "currency": "₴",
-        "starts": "student-ticket-starts",
-        "ends": "student-ticket-ends",
-        "info": "student-ticket-info",
-        "soldOut": false
-      },
-      {
         "name": "early-ticket",
-        "price": 750,
-        "currency": "₴",
+        "price": 50,
+        "currency": "$",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
@@ -178,11 +149,11 @@
       },
       {
         "name": "lazy-ticket",
-        "price": 1000,
-        "currency": "₴",
+        "price": 75,
+        "currency": "$",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
-        "soldOut": false
+        "soldOut": true
       }
     ]
   },
@@ -190,15 +161,15 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 600,
+      "counter": "60+",
       "caption": "attendees"
     },
     {
-      "counter": 2,
+      "counter": 1,
       "caption": "days"
     },
     {
-      "counter": 30,
+      "counter": "10+",
       "caption": "sessions"
     },
     {
@@ -206,56 +177,51 @@
       "caption": "tracks"
     }
   ],
-  "hashtag": "dfua",
+  "hashtag": "DevFestFL",
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "DevFestFlorida",
+      "url": "https://twitter.com/DevFestFlorida"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "+DevFestFloridaOrg",
+      "url": "https://plus.google.com/+DevFestFloridaOrg"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "devfestflorida",
+      "url": "https://www.facebook.com/devfestflorida"
     }
   ],
   "tweetsSource": "/data/tweets.json",
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://goo.gl/photos/e4FPjXYXJYUh9YqSA",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/AndroidDevFestSpaceCoast2014_AndroidTV.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/AndroidDevFestSpaceCoast2014_Design-Winners.jpg",
+        "/images/backgrounds/AndroidDevFestSpaceCoast2014_Auditorium.jpg"
       ]
     }
   },
   "location": {
-    "apiKey": "",
+    "apiKey": "AIzaSyDhlDqyb5mOtdHMsrQpMuYkbIegvj030Q4",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 15
+      "latitude": 28.387020,
+      "longitude": -81.505013,
+      "zoom": 13
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 28.3869642,
+      "longitude": -81.5051866
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/orlando_1.jpg",
+      "/images/backgrounds/orlando_2.jpg",
+      "/images/posts/sheraton-night-shot.jpg"
     ]
   },
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
