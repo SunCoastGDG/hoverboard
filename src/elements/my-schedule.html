@@ -176,7 +176,7 @@
           return function (timeslot) {
             var result = false;
             timeslot.sessions.map(function (session) {
-              if (savedSessionsIds && savedSessionsIds[session[0].id]) {
+              if (savedSessionsIds && session[0] && savedSessionsIds[session[0].id]) {
                 result = true;
               }
             });
@@ -188,7 +188,7 @@
           var filters = this.filters || [];
 
           return function (session) {
-            return (savedSessionsIds && savedSessionsIds[session.id])
+            return (savedSessionsIds && session && savedSessionsIds[session.id])
               || (filters.length && filters.indexOf(session.mainTag) > -1);
           };
         }
