@@ -90,5 +90,5 @@ the community.
     levels, genders, religions, and backgrounds are welcome to learn, practice, and share Google
     technologies, services, and platforms. Our motto is “Be excellent to each other;” if you see or
     experience anything different please contact
-    <a href="mailto:organizers@devfestflorida.org" style="text-transform: uppercase">the organizers.</a>
+    <a href="/team/" style="text-transform: uppercase">the organizers.</a>
 </p>
