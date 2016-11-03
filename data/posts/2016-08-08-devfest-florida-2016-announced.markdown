@@ -15,7 +15,7 @@ conferences can offer you all of that.
 
 ## Interested in volunteering or sponsoring the event?
 Sponsors please check out our
-<a href="/assets/DevFestFloridaPartnershipProposal.pdf" target="_blank">Partner Participation Brochure</a>.
+<a href="https://storage.googleapis.com/devfestflorida.appspot.com/DevFestFloridaPartnershipProposal.pdf" target="_blank">Partner Participation Brochure</a>.
 
 Volunteers please e-mail us at [organizers@devfestflorida.org](mailto:organizers@devfestflorida.org).
 
