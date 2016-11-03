@@ -12,6 +12,7 @@
     "src/pages/team-page.html"
   ],
   "sources": [
+    "assets/*",
     "data/**/*",
     "images/**/*",
     "scripts/**/*",

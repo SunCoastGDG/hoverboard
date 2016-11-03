@@ -185,7 +185,7 @@
               <ul class="link-block">
                 <template is="dom-repeat" items="[[block.links]]" as="link">
                   <li>
-                    <a href$="[[link.url]]" target="_getLinkTarget(link.newTab)">[[localize(link.text)]]</a>
+                    <a href$="[[link.url]]" target="_blank">[[localize(link.text)]]</a>
                   </li>
                 </template>
               </ul>
@@ -196,7 +196,7 @@
             <ul class="link-block">
               <template is="dom-repeat" items="[[app.data.contactBlock.links]]" as="link">
                 <li>
-                  <a href$="[[link.url]]" target="_getLinkTarget(link.newTab)">[[link.text]]</a>
+                  <a href$="[[link.url]]" target="_blank">[[link.text]]</a>
                 </li>
               </template>
             </ul>
@@ -306,10 +306,6 @@
 
         _changeLanguage: function (e) {
           HOVERBOARD.Analytics.trackEvent('language', 'select', e.target.label);
-        },
-
-        _getLinkTarget: function (newTab) {
-          return newTab ? '_blank' : '';
         },
 
         _showLanguageToggle: function (languages) {
